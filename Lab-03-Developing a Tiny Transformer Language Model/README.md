@@ -130,7 +130,7 @@ This practical provided hands-on experience in building a small Transformer lang
 
 - `Lab_Sheet_3_Tiny_Transformer.ipynb` – Completed Google Colab notebook containing the implementation, training, evaluation, experiments, and observations.
 - `README.md` – Practical overview, results, and learning outcomes.
-- `screenshots/` – Screenshots of important implementation steps and outputs (if included).
+- `screenshots/` – Screenshots of important implementation steps and outputs.
 
 ---
 
