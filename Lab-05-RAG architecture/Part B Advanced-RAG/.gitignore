@@ -1,0 +1,21 @@
+# Python virtual environment
+rag_env/
+venv/
+.env/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# ChromaDB database
+chroma_db/
+
+# University documents
+documents/
+
+# Streamlit settings
+.streamlit/secrets.toml
+
+# Operating system files
+.DS_Store
+Thumbs.db

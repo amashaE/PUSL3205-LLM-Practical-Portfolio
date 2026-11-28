@@ -1,0 +1,25 @@
+﻿system,question_id,question,recall_at_5_before,mrr_before,recall_at_5_after,mrr_after,retrieval_latency_seconds,reranking_latency_seconds,total_retrieval_and_reranking_seconds
+Baseline Vector,Q01,What are the module aims of PUSL3123 AI and Machine Learning?,1,1.0,1,1.0,0.20691459998488426,7.53566940035671,7.742584000341594
+Baseline Vector,Q02,What are the five assessed learning outcomes of PUSL3123?,1,1.0,1,1.0,0.32734799990430474,0.7775890002958477,1.1049370002001524
+Baseline Vector,Q03,How is the PUSL3123 module assessment divided between set exercises and the report?,1,0.5,1,1.0,0.3178209001198411,0.6062255003489554,0.9240464004687965
+Baseline Vector,Q04,What does the assessment brief recommend about version control and maintaining development iterations?,1,1.0,1,1.0,0.20295740012079477,0.6603801003657281,0.8633375004865229
+Baseline Vector,Q05,What dataset and neural network architectures are required for Assessment 1?,1,0.25,1,0.25,0.4778990000486374,0.5373046998865902,1.0152036999352276
+Baseline Vector,Q06,Which regularisation techniques must students independently evaluate for the CNN?,1,0.25,1,0.25,0.3751314003020525,0.5005355002358556,0.8756669005379081
+Baseline Vector,Q07,Which dataset is specified for the facial expression recognition assessment?,1,0.25,1,0.25,0.3566867997869849,0.5088708996772766,0.8655576994642615
+Baseline Vector,Q08,What level of generative AI use is permitted for Assessment 2?,1,0.25,1,0.25,0.5026151998899877,0.4008315997198224,0.9034467996098101
+Baseline Vector,Q09,Which undergraduate computing degrees are listed as UGC-approved awards offered by NSBM?,1,1.0,1,1.0,0.4812298999167979,0.6181588000617921,1.09938869997859
+Baseline Vector,Q10,What is the main purpose of the BSc in Management Information Systems programme?,1,1.0,1,1.0,0.40714750019833446,0.7113353996537626,1.118482899852097
+Baseline Vector,Q11,What is the main educational and professional aim of the BSc (Honours) in Computer Science?,1,1.0,1,1.0,0.5245031001977623,0.736888499930501,1.2613916001282632
+Baseline Vector,Q12,What is the main focus of the BSc in Multimedia programme?,1,0.5,1,1.0,0.40383429965004325,0.6055234000086784,1.0093576996587217
+Hybrid BM25 + Vector,Q01,What are the module aims of PUSL3123 AI and Machine Learning?,1,1.0,1,1.0,0.23200140008702874,0.593577400315553,0.8255788004025817
+Hybrid BM25 + Vector,Q02,What are the five assessed learning outcomes of PUSL3123?,1,1.0,1,1.0,0.2108384002931416,0.7210645000450313,0.9319029003381729
+Hybrid BM25 + Vector,Q03,How is the PUSL3123 module assessment divided between set exercises and the report?,1,0.5,1,1.0,0.2313065999187529,0.7122486997395754,0.9435552996583283
+Hybrid BM25 + Vector,Q04,What does the assessment brief recommend about version control and maintaining development iterations?,1,1.0,1,1.0,0.21204449981451035,0.6305815000087023,0.8426259998232126
+Hybrid BM25 + Vector,Q05,What dataset and neural network architectures are required for Assessment 1?,1,0.25,1,0.2,0.42668760009109974,0.8189038997516036,1.2455914998427033
+Hybrid BM25 + Vector,Q06,Which regularisation techniques must students independently evaluate for the CNN?,1,0.25,1,0.25,0.39527099998667836,0.49788499996066093,0.8931559999473393
+Hybrid BM25 + Vector,Q07,Which dataset is specified for the facial expression recognition assessment?,1,0.3333333333333333,0,0.0,0.37252070009708405,0.5378042003139853,0.9103249004110694
+Hybrid BM25 + Vector,Q08,What level of generative AI use is permitted for Assessment 2?,1,0.25,1,0.25,0.4376024999655783,0.5353697002865374,0.9729722002521157
+Hybrid BM25 + Vector,Q09,Which undergraduate computing degrees are listed as UGC-approved awards offered by NSBM?,1,1.0,1,1.0,0.489179200027138,0.5702871000394225,1.0594663000665605
+Hybrid BM25 + Vector,Q10,What is the main purpose of the BSc in Management Information Systems programme?,1,1.0,1,1.0,0.4647793001495302,0.6385328001342714,1.1033121002838016
+Hybrid BM25 + Vector,Q11,What is the main educational and professional aim of the BSc (Honours) in Computer Science?,1,1.0,1,1.0,0.5427733999677002,0.7890824996866286,1.3318558996543288
+Hybrid BM25 + Vector,Q12,What is the main focus of the BSc in Multimedia programme?,1,1.0,1,1.0,0.43659819988533854,0.5579611002467573,0.9945593001320958

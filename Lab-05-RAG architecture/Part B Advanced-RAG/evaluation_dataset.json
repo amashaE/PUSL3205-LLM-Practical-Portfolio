@@ -1,0 +1,86 @@
+﻿[
+  {
+    "id": "Q01",
+    "question": "What are the module aims of PUSL3123 AI and Machine Learning?",
+    "reference_answer": "The module aims to investigate unsupervised, supervised and reinforcement learning from Bayesian perspectives; apply learning techniques and AI concepts to data representation, decision-making and prediction; use search, optimisation, knowledge representation, reasoning and machine learning to analyse datasets and control real-time systems; and reflect on ethical considerations in AI.",
+    "expected_document": "PUSL3123_Assessment_Brief 26-27 (1).pdf",
+    "expected_pages": [1]
+  },
+  {
+    "id": "Q02",
+    "question": "What are the five assessed learning outcomes of PUSL3123?",
+    "reference_answer": "The five outcomes are: understand the principles of unsupervised, supervised and reinforcement learning; apply and evaluate machine learning techniques on real datasets and real-time control scenarios; investigate and analyse AI methods and applications; compare AI paradigms and evaluate their suitability for specific domains; and analyse a chosen domain to identify and apply effective AI methods to address its challenges.",
+    "expected_document": "PUSL3123_Assessment_Brief 26-27 (1).pdf",
+    "expected_pages": [1]
+  },
+  {
+    "id": "Q03",
+    "question": "How is the PUSL3123 module assessment divided between set exercises and the report?",
+    "reference_answer": "The module is assessed through 100% coursework, divided equally between set exercises (50%) and a report (50%).",
+    "expected_document": "PUSL3123_Assessment_Brief 26-27 (1).pdf",
+    "expected_pages": [1]
+  },
+  {
+    "id": "Q04",
+    "question": "What does the assessment brief recommend about version control and maintaining development iterations?",
+    "reference_answer": "The brief recommends maintaining multiple development iterations as backups and to demonstrate the development process. It identifies online or cloud storage and repositories as useful, and GitHub as the university-recommended repository for version control.",
+    "expected_document": "PUSL3123_Assessment_Brief 26-27 (1).pdf",
+    "expected_pages": [4]
+  },
+  {
+    "id": "Q05",
+    "question": "What dataset and neural network architectures are required for Assessment 1?",
+    "reference_answer": "Assessment 1 uses the CIFAR-10 image classification dataset. Students implement and evaluate a Multi-Layer Perceptron (MLP) classifier and a Convolutional Neural Network (CNN) classifier.",
+    "expected_document": "PUSL3123_Assessment_Brief 26-27 (1).pdf",
+    "expected_pages": [5]
+  },
+  {
+    "id": "Q06",
+    "question": "Which regularisation techniques must students independently evaluate for the CNN?",
+    "reference_answer": "Students must independently implement and evaluate dropout and data augmentation against the unchanged CNN baseline.",
+    "expected_document": "PUSL3123_Assessment_Brief 26-27 (1).pdf",
+    "expected_pages": [6]
+  },
+  {
+    "id": "Q07",
+    "question": "Which dataset is specified for the facial expression recognition assessment?",
+    "reference_answer": "The assessment specifies the FER2013 (Facial Expression Recognition 2013) dataset.",
+    "expected_document": "PUSL3123_Assessment_Brief 26-27 (1).pdf",
+    "expected_pages": [9]
+  },
+  {
+    "id": "Q08",
+    "question": "What level of generative AI use is permitted for Assessment 2?",
+    "reference_answer": "Assisted Work is permitted. Generative AI tools may be used in an assistive role, and students remain responsible for checking and understanding the output.",
+    "expected_document": "PUSL3123_Assessment_Brief 26-27 (1).pdf",
+    "expected_pages": [11]
+  },
+  {
+    "id": "Q09",
+    "question": "Which undergraduate computing degrees are listed as UGC-approved awards offered by NSBM?",
+    "reference_answer": "The listed awards are BSc in Management Information Systems (Special), BSc (Hons) in Software Engineering, BSc (Hons) in Computer Science, BSc (Hons) in Computer Networks, and BSc in Multimedia.",
+    "expected_document": "COMPUTING AWARD HANDBOOK_MOHE (2) (1).pdf",
+    "expected_pages": [5]
+  },
+  {
+    "id": "Q10",
+    "question": "What is the main purpose of the BSc in Management Information Systems programme?",
+    "reference_answer": "The programme is interdisciplinary, combining computing and business. It aims to develop information systems professionals who use technology, people and processes to improve organisational operational efficiency and contribute to corporate decision-making.",
+    "expected_document": "COMPUTING AWARD HANDBOOK_MOHE (2) (1).pdf",
+    "expected_pages": [6]
+  },
+  {
+    "id": "Q11",
+    "question": "What is the main educational and professional aim of the BSc (Honours) in Computer Science?",
+    "reference_answer": "The programme aims to produce competent computing professionals with a sound technical foundation in computer science and the ability to creatively apply computing and related technologies to practical problems.",
+    "expected_document": "COMPUTING AWARD HANDBOOK_MOHE (2) (1).pdf",
+    "expected_pages": [12]
+  },
+  {
+    "id": "Q12",
+    "question": "What is the main focus of the BSc in Multimedia programme?",
+    "reference_answer": "The three-year programme focuses on idea-based education, with emphasis on conceptualisation and ideation through the design process. It also provides multidisciplinary education in design, research, management, production and evaluation.",
+    "expected_document": "COMPUTING AWARD HANDBOOK_MOHE (2) (1).pdf",
+    "expected_pages": [18]
+  }
+]

@@ -1,0 +1,334 @@
+﻿system,question_id,question,reference_answer,generated_answer,retrieved_sources,generation_time_seconds,error,correctness_score
+Baseline Vector,Q01,What are the module aims of PUSL3123 AI and Machine Learning?,"The module aims to investigate unsupervised, supervised and reinforcement learning from Bayesian perspectives; apply learning techniques and AI concepts to data representation, decision-making and prediction; use search, optimisation, knowledge representation, reasoning and machine learning to analyse datasets and control real-time systems; and reflect on ethical considerations in AI.","**Document: PUSL3123_Assessment_Brief 26-27 (1).pdf, p.1**
+
+The module aims of PUSL3123 AI and Machine Learning are:
+
+1. To investigate unsupervised, supervised, and reinforcement learning from Bayesian perspectives in the context of machine learning.
+2. To review and apply learning techniques and artificial intelligence concepts towards data representations and decision-making and prediction systems.
+3. To identify, select, and use techniques such as search and optimisation, knowledge representation and reasoning, and machine learning for analysing datasets and control real-time systems.
+4. To reflect on the importance of ethical considerations behind the use of artificial intelligence.
+
+**Combined Conclusion**
+
+The module aims of PUSL3123 AI and Machine Learning are focused on investigating and applying various machine learning techniques, reviewing and applying learning techniques and artificial intelligence concepts, and reflecting on the importance of ethical considerations in AI.",PUSL3123_Assessment_Brief 26-27 (1).pdf (page 1); PUSL3123_Assessment_Brief 26-27 (1).pdf (page 3); PUSL3123_Assessment_Brief 26-27 (1).pdf (page 14),220.825,,
+Baseline Vector,Q02,What are the five assessed learning outcomes of PUSL3123?,"The five outcomes are: understand the principles of unsupervised, supervised and reinforcement learning; apply and evaluate machine learning techniques on real datasets and real-time control scenarios; investigate and analyse AI methods and applications; compare AI paradigms and evaluate their suitability for specific domains; and analyse a chosen domain to identify and apply effective AI methods to address its challenges.","I'm unable to provide information on the assessed learning outcomes of PUSL3123 as the relevant document (PUSL3123_Assessment_Brief 26-27 (1).pdf, p.1) does not contain this information.",PUSL3123_Assessment_Brief 26-27 (1).pdf (page 1); PUSL3123_Assessment_Brief 26-27 (1).pdf (page 2); PUSL3123_Assessment_Brief 26-27 (1).pdf (page 8),40.26,,
+Baseline Vector,Q03,How is the PUSL3123 module assessment divided between set exercises and the report?,"The module is assessed through 100% coursework, divided equally between set exercises (50%) and a report (50%).","**Document 1: PUSL3123_Assessment_Brief 26-27 (1).pdf, p.1**
+
+The assessment for PUSL3123 is divided between set exercises and the report, with each component accounting for 50% of the total assessment.
+
+**Document 2: PUSL3123_Assessment_Brief 26-27 (1).pdf, p.1**
+
+The assessment is divided into two elements: set exercises and the report.
+
+**Document 2: PUSL3123_Assessment_Brief 26-27 (1).pdf, p.2**
+
+The report is assessed based on the following criteria:
+
+* Report Content (60%): The report is assessed on its ability to address the exercises, with criteria including the presence of experimental results, comparisons, and meaningful analysis.
+* Report Presentation (20%): The report is assessed on its structure, clarity, and presentation of results, with criteria including the organization, technical explanations, and labelling of tables, graphs, and supporting evidence.
+
+**Relationship between the two documents**
+
+The two documents appear to be related, as they both provide information on the assessment structure and criteria for the PUSL3123 module. However, the exact relationship between the two documents is not stated in the provided notes.",PUSL3123_Assessment_Brief 26-27 (1).pdf (page 1); PUSL3123_Assessment_Brief 26-27 (1).pdf (page 2); PUSL3123_Assessment_Brief 26-27 (1).pdf (page 8),56.014,,
+Baseline Vector,Q04,What does the assessment brief recommend about version control and maintaining development iterations?,"The brief recommends maintaining multiple development iterations as backups and to demonstrate the development process. It identifies online or cloud storage and repositories as useful, and GitHub as the university-recommended repository for version control.","**Document 1: PUSL3123_Assessment_Brief 26-27 (1).pdf, p.4**
+
+The assessment brief recommends using online/cloud-based storage solutions and repositories for version control, such as GitHub, which is the university-recommended repository for versioning code. This is considered industry practice and provides additional peace of mind.
+
+**Document 1: PUSL3123_Assessment_Brief 26-27 (1).pdf, p.2**
+
+There is no specific mention of version control or maintaining development iterations in the overview of the assessment.
+
+**Document 1: PUSL3123_Assessment_Brief 26-27 (1).pdf, p.14**
+
+There is no mention of version control or maintaining development iterations in the ""Please specify"" table.
+
+**Conclusion**
+
+The assessment brief recommends using GitHub for version control, but does not provide specific guidance on maintaining development iterations.",PUSL3123_Assessment_Brief 26-27 (1).pdf (page 4); PUSL3123_Assessment_Brief 26-27 (1).pdf (page 14); PUSL3123_Assessment_Brief 26-27 (1).pdf (page 2),44.31,,
+Baseline Vector,Q05,What dataset and neural network architectures are required for Assessment 1?,Assessment 1 uses the CIFAR-10 image classification dataset. Students implement and evaluate a Multi-Layer Perceptron (MLP) classifier and a Convolutional Neural Network (CNN) classifier.,"### COMPUTING AWARD HANDBOOK_MOHE (2) (1).pdf
+NOT FOUND
+
+### PUSL3123_Assessment_Brief 26-27 (1).pdf
+Module Assessment Brief
+
+### How the documents relate
+The documents do not state how they are related.",COMPUTING AWARD HANDBOOK_MOHE (2) (1).pdf (page 8); COMPUTING AWARD HANDBOOK_MOHE (2) (1).pdf (page 11); COMPUTING AWARD HANDBOOK_MOHE (2) (1).pdf (page 14); PUSL3123_Assessment_Brief 26-27 (1).pdf (page 5); PUSL3123_Assessment_Brief 26-27 (1).pdf (page 8); PUSL3123_Assessment_Brief 26-27 (1).pdf (page 7),57.214,,
+Baseline Vector,Q06,Which regularisation techniques must students independently evaluate for the CNN?,Students must independently implement and evaluate dropout and data augmentation against the unchanged CNN baseline.,"### COMPUTING AWARD HANDBOOK_MOHE (2) (1).pdf
+Module Assessment Brief
+
+The regularisation techniques that must students independently evaluate for the CNN (Convolutional Neural Network) are not explicitly mentioned in the provided excerpts.
+
+### PUSL3123_Assessment_Brief 26-27 (1).pdf
+Module Assessment Brief: Regularisation Techniques for CNN
+
+Facts extracted:
+
+* Students must independently evaluate the following regularisation techniques for the CNN: 
+  1. Dropout
+  2. Data augmentation
+* The techniques must be evaluated independently against the unchanged CNN baseline.
+* The evaluation should include training accuracy, test accuracy, and the difference between them.
+* The results should be presented in a comparative table or graph.
+* The techniques should be discussed in terms of their effect on generalisation, advantages, limitations, and possible reasons for these observations.
+
+### How the documents relate
+The documents do not state how they are related.",COMPUTING AWARD HANDBOOK_MOHE (2) (1).pdf (page 17); COMPUTING AWARD HANDBOOK_MOHE (2) (1).pdf (page 8); COMPUTING AWARD HANDBOOK_MOHE (2) (1).pdf (page 3); PUSL3123_Assessment_Brief 26-27 (1).pdf (page 6); PUSL3123_Assessment_Brief 26-27 (1).pdf (page 5); PUSL3123_Assessment_Brief 26-27 (1).pdf (page 10),70.905,,
+Baseline Vector,Q07,Which dataset is specified for the facial expression recognition assessment?,The assessment specifies the FER2013 (Facial Expression Recognition 2013) dataset.,"### COMPUTING AWARD HANDBOOK_MOHE (2) (1).pdf
+NOT FOUND
+
+### PUSL3123_Assessment_Brief 26-27 (1).pdf
+Module Assessment Brief
+
+### How the documents relate
+The documents do not state how they are related.",COMPUTING AWARD HANDBOOK_MOHE (2) (1).pdf (page 2); COMPUTING AWARD HANDBOOK_MOHE (2) (1).pdf (page 3); COMPUTING AWARD HANDBOOK_MOHE (2) (1).pdf (page 1); PUSL3123_Assessment_Brief 26-27 (1).pdf (page 9); PUSL3123_Assessment_Brief 26-27 (1).pdf (page 10); PUSL3123_Assessment_Brief 26-27 (1).pdf (page 11),46.955,,
+Baseline Vector,Q08,What level of generative AI use is permitted for Assessment 2?,"Assisted Work is permitted. Generative AI tools may be used in an assistive role, and students remain responsible for checking and understanding the output.","### COMPUTING AWARD HANDBOOK_MOHE (2) (1).pdf
+Module Assessment Brief
+
+The permitted level of generative AI use is not explicitly stated in the provided excerpts. However, it is mentioned that course content may update periodically, and elective modules will be offered with the prior approval of the faculty board.
+
+### PUSL3123_Assessment_Brief 26-27 (1).pdf
+Module Assessment Brief
+
+The permitted level of generative AI use for Assessment 2 is:
+
+* Assisted Work: Generative AI tools are permitted to be used in an assistive role (p.11)
+* Specific tasks:
+	+ A1 – Idea Generation and Problem Exploration (p.11)
+	+ A2 – Planning and Structuring Reports or Projects (p.11)
+	+ A4 – Language Refinement (p.11)
+
+### How the documents relate
+The documents do not state how they are related. However, PUSL3123_Assessment_Brief 26-27 (1).pdf provides specific guidance on the permitted level of generative AI use for Assessment 2, which is not explicitly stated in COMPUTING AWARD HANDBOOK_MOHE (2) (1).pdf. COMPUTING AWARD HANDBOOK_MOHE (2) (1).pdf only mentions that course content may update periodically, but does not provide any information on the permitted level of generative AI use.",COMPUTING AWARD HANDBOOK_MOHE (2) (1).pdf (page 14); COMPUTING AWARD HANDBOOK_MOHE (2) (1).pdf (page 8); COMPUTING AWARD HANDBOOK_MOHE (2) (1).pdf (page 11); PUSL3123_Assessment_Brief 26-27 (1).pdf (page 11); PUSL3123_Assessment_Brief 26-27 (1).pdf (page 14); PUSL3123_Assessment_Brief 26-27 (1).pdf (page 14),60.128,,
+Baseline Vector,Q09,Which undergraduate computing degrees are listed as UGC-approved awards offered by NSBM?,"The listed awards are BSc in Management Information Systems (Special), BSc (Hons) in Software Engineering, BSc (Hons) in Computer Science, BSc (Hons) in Computer Networks, and BSc in Multimedia.","### COMPUTING AWARD HANDBOOK_MOHE (2) (1).pdf
+Undergraduate Computing Degrees
+
+Excerpts from UGC-approved awards offered by NSBM:
+
+1. BSc in Management Information Systems (Special)
+2. BSc (Hons) in Software Engineering
+3. BSc (Hons) in Computer Science
+4. BSc (Hons) in Computer Networks
+5. BSc in Multimedia
+
+### PUSL3123_Assessment_Brief 26-27 (1).pdf
+Module Assessment Brief
+
+### How the documents relate
+The documents relate to undergraduate computing degrees offered by NSBM. COMPUTING AWARD HANDBOOK_MOHE (2) (1).pdf lists the UGC-approved awards offered by NSBM, including specific degrees such as BSc in Software Engineering and BSc in Computer Science. The exact degrees listed in COMPUTING AWARD HANDBOOK_MOHE (2) (1).pdf are not mentioned in PUSL3123_Assessment_Brief 26-27 (1).pdf, which appears to be a separate document. The documents do not state how they are related.",COMPUTING AWARD HANDBOOK_MOHE (2) (1).pdf (page 5); COMPUTING AWARD HANDBOOK_MOHE (2) (1).pdf (page 12); COMPUTING AWARD HANDBOOK_MOHE (2) (1).pdf (page 1); PUSL3123_Assessment_Brief 26-27 (1).pdf (page 3); PUSL3123_Assessment_Brief 26-27 (1).pdf (page 14); PUSL3123_Assessment_Brief 26-27 (1).pdf (page 8),55.228,,
+Baseline Vector,Q10,What is the main purpose of the BSc in Management Information Systems programme?,"The programme is interdisciplinary, combining computing and business. It aims to develop information systems professionals who use technology, people and processes to improve organisational operational efficiency and contribute to corporate decision-making.","### COMPUTING AWARD HANDBOOK_MOHE (2) (1).pdf
+Programme Handbook
+
+The main purpose of the BSc in Management Information Systems programme is to produce IS professionals with the required knowledge and skills to improve an organization's operational efficiency and make substantive contributions to the use of information systems in corporate decision making.
+
+### PUSL3123_Assessment_Brief 26-27 (1).pdf
+Module Assessment Brief
+
+The main purpose of the BSc in Management Information Systems programme is not explicitly stated in the provided excerpts. However, the excerpts do provide information on the assessment structure and learning outcomes of the AI and Machine Learning module (PUSL3123).
+
+The learning outcomes of the module include:
+
+* Providing a systematic understanding of the principles of unsupervised, supervised, and reinforcement learning
+* Demonstrating the ability to apply and evaluate machine learning techniques to make decisions on real data sets and real-time control scenarios
+* Investigating and analysing a range of artificial intelligence methods and their applications
+* Comparing and contrasting artificial intelligence paradigms and evaluating the appropriateness of a particular paradigm for specific application domains
+* Analyzing a chosen sample domain and identifying, and applying effective artificial intelligence methods to address existing challenges.
+
+NOT FOUND
+
+### How the documents relate
+The documents do not state how they are related. COMPUTING AWARD HANDBOOK_MOHE (2) (1).pdf provides the main purpose of the BSc in Management Information Systems programme, while PUSL3123_Assessment_Brief 26-27 (1).pdf provides information on the assessment structure and learning outcomes of a specific module (PUSL3123) within the programme, but does not explicitly state the programme's purpose.",COMPUTING AWARD HANDBOOK_MOHE (2) (1).pdf (page 6); COMPUTING AWARD HANDBOOK_MOHE (2) (1).pdf (page 6); COMPUTING AWARD HANDBOOK_MOHE (2) (1).pdf (page 5); PUSL3123_Assessment_Brief 26-27 (1).pdf (page 1); PUSL3123_Assessment_Brief 26-27 (1).pdf (page 2); PUSL3123_Assessment_Brief 26-27 (1).pdf (page 15),67.581,,
+Baseline Vector,Q11,What is the main educational and professional aim of the BSc (Honours) in Computer Science?,The programme aims to produce competent computing professionals with a sound technical foundation in computer science and the ability to creatively apply computing and related technologies to practical problems.,"### COMPUTING AWARD HANDBOOK_MOHE (2) (1).pdf
+Computer Science Module Assessment Brief
+
+### PUSL3123_Assessment_Brief 26-27 (1).pdf
+Module Assessment Brief
+
+Facts related to the main educational and professional aim of the BSc (Honours) in Computer Science:
+
+* The module is assessed via 100% coursework, across two elements: Set Exercises (50%) and Report (50%).
+* The main educational and professional aim of the BSc (Honours) in Computer Science is not explicitly stated in the excerpts, but it can be inferred that it involves developing skills in software engineering, including coding, computational assistance, and technical work.
+
+### How the documents relate
+The documents do not state how they are related. However, based on the information provided, it can be inferred that the main educational and professional aim of the BSc (Honours) in Computer Science is likely to involve developing skills in software engineering, including coding, computational assistance, and technical work, as stated in PUSL3123_Assessment_Brief 26-27 (1).pdf.",COMPUTING AWARD HANDBOOK_MOHE (2) (1).pdf (page 12); COMPUTING AWARD HANDBOOK_MOHE (2) (1).pdf (page 15); COMPUTING AWARD HANDBOOK_MOHE (2) (1).pdf (page 9); PUSL3123_Assessment_Brief 26-27 (1).pdf (page 8); PUSL3123_Assessment_Brief 26-27 (1).pdf (page 14); PUSL3123_Assessment_Brief 26-27 (1).pdf (page 2),76.098,,
+Baseline Vector,Q12,What is the main focus of the BSc in Multimedia programme?,"The three-year programme focuses on idea-based education, with emphasis on conceptualisation and ideation through the design process. It also provides multidisciplinary education in design, research, management, production and evaluation.","### COMPUTING AWARD HANDBOOK_MOHE (2) (1).pdf
+Module Assessment Brief
+
+The main focus of the BSc in Multimedia programme is on idea-based education, conceptualization, and ideation through the design process, with a comprehensive education on the design process, research, management, production, and evaluation.
+
+### PUSL3123_Assessment_Brief 26-27 (1).pdf
+Module Assessment Brief
+
+The main focus of the BSc in Multimedia programme is not explicitly stated in the provided excerpts. However, the assessment tasks and marking scheme suggest that the programme involves coursework and project-based assessments, with a focus on software engineering and multimedia development.
+
+### How the documents relate
+The documents do not state how they are related. However, they both appear to be related to the BSc in Multimedia programme, as they both discuss the programme's focus and assessment tasks. COMPUTING AWARD HANDBOOK_MOHE (2) (1).pdf provides a more detailed description of the programme's focus on idea-based education and design process, while PUSL3123_Assessment_Brief 26-27 (1).pdf provides a more general overview of the programme's assessment structure.",COMPUTING AWARD HANDBOOK_MOHE (2) (1).pdf (page 18); COMPUTING AWARD HANDBOOK_MOHE (2) (1).pdf (page 6); COMPUTING AWARD HANDBOOK_MOHE (2) (1).pdf (page 4); PUSL3123_Assessment_Brief 26-27 (1).pdf (page 13); PUSL3123_Assessment_Brief 26-27 (1).pdf (page 2); PUSL3123_Assessment_Brief 26-27 (1).pdf (page 15),71.582,,
+Hybrid BM25 + Vector,Q01,What are the module aims of PUSL3123 AI and Machine Learning?,"The module aims to investigate unsupervised, supervised and reinforcement learning from Bayesian perspectives; apply learning techniques and AI concepts to data representation, decision-making and prediction; use search, optimisation, knowledge representation, reasoning and machine learning to analyse datasets and control real-time systems; and reflect on ethical considerations in AI.","**Document: PUSL3123_Assessment_Brief 26-27 (1).pdf, p.1**
+
+The module aims of PUSL3123 AI and Machine Learning are:
+
+• To investigate unsupervised, supervised and reinforcement learning from Bayesian perspectives in the context of machine learning.
+• To review and apply learning techniques and artificial intelligence concepts towards data representations and decision-making and prediction systems.
+• To identify, select and use techniques such as search and optimisation, knowledge representation and reasoning, and machine learning for analysing datasets and control real-time systems.
+• To reflect on the importance of ethical considerations behind the use of artificial intelligence.
+
+**Relationship to COMP2000 (Software Engineering 2)**
+
+The document does not explicitly state the relationship between PUSL3123 AI and Machine Learning and COMP2000 (Software Engineering 2). However, it is mentioned that the module leader, Dr Vivek Singh, is also the module leader for COMP2000, suggesting a possible connection between the two modules.",PUSL3123_Assessment_Brief 26-27 (1).pdf (page 1); PUSL3123_Assessment_Brief 26-27 (1).pdf (page 3); PUSL3123_Assessment_Brief 26-27 (1).pdf (page 2),115.031,,
+Hybrid BM25 + Vector,Q02,What are the five assessed learning outcomes of PUSL3123?,"The five outcomes are: understand the principles of unsupervised, supervised and reinforcement learning; apply and evaluate machine learning techniques on real datasets and real-time control scenarios; investigate and analyse AI methods and applications; compare AI paradigms and evaluate their suitability for specific domains; and analyse a chosen domain to identify and apply effective AI methods to address its challenges.",I'm unable to provide information on the assessed learning outcomes of PUSL3123 as the relevant information is not available in the provided notes.,PUSL3123_Assessment_Brief 26-27 (1).pdf (page 1); PUSL3123_Assessment_Brief 26-27 (1).pdf (page 9); PUSL3123_Assessment_Brief 26-27 (1).pdf (page 2),51.748,,
+Hybrid BM25 + Vector,Q03,How is the PUSL3123 module assessment divided between set exercises and the report?,"The module is assessed through 100% coursework, divided equally between set exercises (50%) and a report (50%).","**Document 1: PUSL3123_Assessment_Brief 26-27 (1).pdf, p.1**
+
+The assessment for PUSL3123 is divided between set exercises and the report, with each component accounting for 50% of the total assessment. The set exercises are assessed as follows:
+
+* Exercise 1: Multi-Layer Perceptron Classifier (13 marks)
+* Exercise 2: Convolutional Neural Network Classifier (10 marks)
+
+**Document 1: PUSL3123_Assessment_Brief 26-27 (1).pdf, p.5**
+
+The assessment for PUSL3123: Set Exercises is divided into two exercises:
+
+* Exercise 1: Multi-Layer Perceptron Classifier (13 marks)
+* Exercise 2: Convolutional Neural Network Classifier (10 marks)
+
+There is no mention of the report being divided into set exercises. The report is a separate component of the assessment, with no specific exercises or marks allocated to it.
+
+**Conclusion**
+
+The assessment for PUSL3123 is divided between set exercises and the report, with the set exercises accounting for 23 marks (13 marks for Exercise 1 and 10 marks for Exercise 2) and the report accounting for the remaining 77 marks.",PUSL3123_Assessment_Brief 26-27 (1).pdf (page 1); PUSL3123_Assessment_Brief 26-27 (1).pdf (page 2); PUSL3123_Assessment_Brief 26-27 (1).pdf (page 5),89.824,,
+Hybrid BM25 + Vector,Q04,What does the assessment brief recommend about version control and maintaining development iterations?,"The brief recommends maintaining multiple development iterations as backups and to demonstrate the development process. It identifies online or cloud storage and repositories as useful, and GitHub as the university-recommended repository for version control.","**Document 1: PUSL3123_Assessment_Brief 26-27 (1).pdf, p.4**
+
+The assessment brief recommends using online/cloud-based storage solutions and repositories for version control, such as GitHub, which is the university-recommended repository for versioning code. This provides additional peace of mind and industry practice.
+
+**Document 1: PUSL3123_Assessment_Brief 26-27 (1).pdf, p.2**
+
+There is no specific mention of version control or maintaining development iterations in the overview section.
+
+**Document 1: PUSL3123_Assessment_Brief 26-27 (1).pdf, p.4**
+
+The assessment brief recommends maintaining development iterations to ensure backups and clear demonstration of the development process. It also emphasizes the importance of submitting code in the correct format and including all dependencies.
+
+**Combined Conclusion**
+
+The assessment brief recommends using GitHub for version control and maintaining development iterations to ensure backups and clear demonstration of the development process. It also emphasizes the importance of submitting code in the correct format and including all dependencies.",PUSL3123_Assessment_Brief 26-27 (1).pdf (page 4); PUSL3123_Assessment_Brief 26-27 (1).pdf (page 14); PUSL3123_Assessment_Brief 26-27 (1).pdf (page 2),65.311,,
+Hybrid BM25 + Vector,Q05,What dataset and neural network architectures are required for Assessment 1?,Assessment 1 uses the CIFAR-10 image classification dataset. Students implement and evaluate a Multi-Layer Perceptron (MLP) classifier and a Convolutional Neural Network (CNN) classifier.,"### COMPUTING AWARD HANDBOOK_MOHE (2) (1).pdf
+Module Assessment Brief 
+
+The required dataset for Assessment 1 is not explicitly mentioned in the excerpts. However, the program focuses on Computer Networks, and the required neural network architectures are not specified.
+
+### PUSL3123_Assessment_Brief 26-27 (1).pdf
+Neural Network Architecture Assessment Brief
+
+Facts extracted:
+
+* Dataset: CIFAR-10 (p.5)
+* Neural network architectures: 
+	+ Multi-Layer Perceptron (MLP)
+	+ Convolutional Neural Network (CNN)
+* Exercise 1: MLP Classifier (p.5)
+* Exercise 2: CNN Classifier (p.5)
+* Assessment 1: Investigates the effect of neural network architecture, regularisation, data augmentation, and model complexity on image classification performance (p.5)
+
+### How the documents relate
+The documents do not state how they are related. However, PUSL3123_Assessment_Brief 26-27 (1).pdf provides information about the required dataset (CIFAR-10) and neural network architectures (MLP and CNN) for Assessment 1, which is not explicitly mentioned in COMPUTING AWARD HANDBOOK_MOHE (2) (1).pdf.",COMPUTING AWARD HANDBOOK_MOHE (2) (1).pdf (page 16); COMPUTING AWARD HANDBOOK_MOHE (2) (1).pdf (page 15); COMPUTING AWARD HANDBOOK_MOHE (2) (1).pdf (page 11); PUSL3123_Assessment_Brief 26-27 (1).pdf (page 8); PUSL3123_Assessment_Brief 26-27 (1).pdf (page 5); PUSL3123_Assessment_Brief 26-27 (1).pdf (page 5),115.683,,
+Hybrid BM25 + Vector,Q06,Which regularisation techniques must students independently evaluate for the CNN?,Students must independently implement and evaluate dropout and data augmentation against the unchanged CNN baseline.,"### COMPUTING AWARD HANDBOOK_MOHE (2) (1).pdf
+Module Assessment Brief
+
+The regularisation techniques that must students independently evaluate for the CNN (Convolutional Neural Network) are not explicitly mentioned in the provided excerpts.
+
+### PUSL3123_Assessment_Brief 26-27 (1).pdf
+Module Assessment Brief
+
+### How the documents relate
+The documents do not state how they are related.",COMPUTING AWARD HANDBOOK_MOHE (2) (1).pdf (page 17); COMPUTING AWARD HANDBOOK_MOHE (2) (1).pdf (page 8); COMPUTING AWARD HANDBOOK_MOHE (2) (1).pdf (page 3); PUSL3123_Assessment_Brief 26-27 (1).pdf (page 6); PUSL3123_Assessment_Brief 26-27 (1).pdf (page 5); PUSL3123_Assessment_Brief 26-27 (1).pdf (page 13),70.274,,
+Hybrid BM25 + Vector,Q07,Which dataset is specified for the facial expression recognition assessment?,The assessment specifies the FER2013 (Facial Expression Recognition 2013) dataset.,"### COMPUTING AWARD HANDBOOK_MOHE (2) (1).pdf
+NOT FOUND
+
+### PUSL3123_Assessment_Brief 26-27 (1).pdf
+Module Assessment Brief
+
+### How the documents relate
+The documents do not state how they are related.",COMPUTING AWARD HANDBOOK_MOHE (2) (1).pdf (page 3); COMPUTING AWARD HANDBOOK_MOHE (2) (1).pdf (page 3); COMPUTING AWARD HANDBOOK_MOHE (2) (1).pdf (page 1); PUSL3123_Assessment_Brief 26-27 (1).pdf (page 10); PUSL3123_Assessment_Brief 26-27 (1).pdf (page 11); PUSL3123_Assessment_Brief 26-27 (1).pdf (page 13),56.316,,
+Hybrid BM25 + Vector,Q08,What level of generative AI use is permitted for Assessment 2?,"Assisted Work is permitted. Generative AI tools may be used in an assistive role, and students remain responsible for checking and understanding the output.","### COMPUTING AWARD HANDBOOK_MOHE (2) (1).pdf
+Module Assessment Brief
+
+No specific information about generative AI use is present in the excerpts.
+
+### PUSL3123_Assessment_Brief 26-27 (1).pdf
+Programme Handbook
+
+The permitted level of generative AI use for Assessment 2 is as follows:
+
+* For Solo Work, generative AI tools are not permitted.
+* For Assisted Work, generative AI tools are permitted in an assistive role.
+* For Partnered Work, generative AI tool use is required as an integral part of the assessment.
+
+Specifically, the following uses are acceptable:
+
+* A1 – Idea Generation and Problem Exploration
+* A2 – Planning and Structuring Reports or Projects
+* A4 – Language Refinement
+
+For Assisted Work, generative AI tools can be used for:
+
+* A1 – Idea Generation and Problem Exploration
+* A2 – Planning and Structuring Reports or Projects
+* A4 – Language Refinement
+
+NOT FOUND
+
+### How the documents relate
+The documents do not state how they are related. However, they both provide information about Assessment 2, specifically regarding the permitted level of generative AI use. COMPUTING AWARD HANDBOOK_MOHE (2) (1).pdf provides a general overview of the module assessment, while PUSL3123_Assessment_Brief 26-27 (1).pdf provides detailed guidelines on the permitted uses of generative AI tools for Assessment 2.",COMPUTING AWARD HANDBOOK_MOHE (2) (1).pdf (page 14); COMPUTING AWARD HANDBOOK_MOHE (2) (1).pdf (page 8); COMPUTING AWARD HANDBOOK_MOHE (2) (1).pdf (page 3); PUSL3123_Assessment_Brief 26-27 (1).pdf (page 11); PUSL3123_Assessment_Brief 26-27 (1).pdf (page 14); PUSL3123_Assessment_Brief 26-27 (1).pdf (page 14),66.507,,
+Hybrid BM25 + Vector,Q09,Which undergraduate computing degrees are listed as UGC-approved awards offered by NSBM?,"The listed awards are BSc in Management Information Systems (Special), BSc (Hons) in Software Engineering, BSc (Hons) in Computer Science, BSc (Hons) in Computer Networks, and BSc in Multimedia.","### COMPUTING AWARD HANDBOOK_MOHE (2) (1).pdf
+Module Assessment Brief
+
+Extracted facts:
+
+* UGC-approved undergraduate computing degrees offered by NSBM:
+	+ BSc in Management Information Systems (Special)
+	+ BSc (Hons) in Software Engineering
+	+ BSc (Hons) in Computer Science
+	+ BSc (Hons) in Computer Networks
+	+ BSc in Multimedia
+* BSc (Hons) in Computer Science is a 4-year UGC-approved degree program
+* BSc in Multimedia is a 3-year UGC-approved degree program
+
+### PUSL3123_Assessment_Brief 26-27 (1).pdf
+Assessment Brief.
+
+The assessment brief recommends that AI should be used only to provide suggestions for improvement in tasks A8 – Review and Improvement of Technical Work, and that the output must accurately reflect the student's knowledge.
+
+### How the documents relate
+The undergraduate computing degrees listed as UGC-approved awards offered by NSBM are BSc in Management Information Systems (Special), BSc (Hons) in Software Engineering, BSc (Hons) in Computer Science, BSc (Hons) in Computer Networks, and BSc in Multimedia. These degrees are mentioned in COMPUTING AWARD HANDBOOK_MOHE (2) (1).pdf. The documents do not state how they are related to the assessment brief in PUSL3123_Assessment_Brief 26-27 (1).pdf, which only discusses the use of AI in a specific assessment task.",COMPUTING AWARD HANDBOOK_MOHE (2) (1).pdf (page 5); COMPUTING AWARD HANDBOOK_MOHE (2) (1).pdf (page 12); COMPUTING AWARD HANDBOOK_MOHE (2) (1).pdf (page 18); PUSL3123_Assessment_Brief 26-27 (1).pdf (page 14); PUSL3123_Assessment_Brief 26-27 (1).pdf (page 8); PUSL3123_Assessment_Brief 26-27 (1).pdf (page 6),81.556,,
+Hybrid BM25 + Vector,Q10,What is the main purpose of the BSc in Management Information Systems programme?,"The programme is interdisciplinary, combining computing and business. It aims to develop information systems professionals who use technology, people and processes to improve organisational operational efficiency and contribute to corporate decision-making.","### COMPUTING AWARD HANDBOOK_MOHE (2) (1).pdf
+Programme Handbook
+
+The main purpose of the BSc in Management Information Systems programme is to produce IS professionals with the required knowledge and skills to improve an organization's operational efficiency and make substantive contributions to the use of information systems in corporate decision making.
+
+### PUSL3123_Assessment_Brief 26-27 (1).pdf
+Assessment Brief
+
+The assessment brief recommends using online/cloud-based storage solutions and repositories for version control and maintaining development iterations. Specifically, it recommends using GitHub as the university-recommended repository for versioning code.
+
+### How the documents relate
+The documents relate to the BSc in Management Information Systems programme by providing information on its main purpose (COMPUTING AWARD HANDBOOK_MOHE (2) (1).pdf) and specific recommendations for version control and repository management (PUSL3123_Assessment_Brief 26-27 (1).pdf). The programme's main purpose is to produce IS professionals who can improve organizational efficiency and contribute to corporate decision making. In contrast, PUSL3123_Assessment_Brief 26-27 (1).pdf provides specific guidance on using GitHub for version control, but does not directly address the programme's main purpose. The documents do not state how they are related.",COMPUTING AWARD HANDBOOK_MOHE (2) (1).pdf (page 6); COMPUTING AWARD HANDBOOK_MOHE (2) (1).pdf (page 6); COMPUTING AWARD HANDBOOK_MOHE (2) (1).pdf (page 5); PUSL3123_Assessment_Brief 26-27 (1).pdf (page 4); PUSL3123_Assessment_Brief 26-27 (1).pdf (page 2); PUSL3123_Assessment_Brief 26-27 (1).pdf (page 1),63.503,,
+Hybrid BM25 + Vector,Q11,What is the main educational and professional aim of the BSc (Honours) in Computer Science?,The programme aims to produce competent computing professionals with a sound technical foundation in computer science and the ability to creatively apply computing and related technologies to practical problems.,"### COMPUTING AWARD HANDBOOK_MOHE (2) (1).pdf
+Computer Science Programme Handbook
+
+### PUSL3123_Assessment_Brief 26-27 (1).pdf
+Assessment Brief
+
+The assessment brief recommends using GitHub for versioning code, which provides great integration with a number of IDEs. (p.4)
+
+### How the documents relate
+The main educational and professional aim of the BSc (Honours) in Computer Science is to provide students with a comprehensive understanding of computer science concepts and skills, as stated in the Computer Science Programme Handbook. The assessment brief, however, focuses on the practical application of these skills, particularly in version control using GitHub. The two documents complement each other, with the handbook outlining the overall programme goals and the assessment brief providing specific guidance on assessment methods.",COMPUTING AWARD HANDBOOK_MOHE (2) (1).pdf (page 12); COMPUTING AWARD HANDBOOK_MOHE (2) (1).pdf (page 15); COMPUTING AWARD HANDBOOK_MOHE (2) (1).pdf (page 9); PUSL3123_Assessment_Brief 26-27 (1).pdf (page 4); PUSL3123_Assessment_Brief 26-27 (1).pdf (page 2); PUSL3123_Assessment_Brief 26-27 (1).pdf (page 14),65.431,,
+Hybrid BM25 + Vector,Q12,What is the main focus of the BSc in Multimedia programme?,"The three-year programme focuses on idea-based education, with emphasis on conceptualisation and ideation through the design process. It also provides multidisciplinary education in design, research, management, production and evaluation.","### COMPUTING AWARD HANDBOOK_MOHE (2) (1).pdf
+Program Handbook
+
+The main focus of the BSc in Multimedia programme is idea-based education, with an emphasis on conceptualization and ideation through the design process.
+
+### PUSL3123_Assessment_Brief 26-27 (1).pdf
+Module Assessment Brief.
+
+The assessment brief recommends using online/cloud-based storage solutions and repositories, such as GitHub, for version control and maintaining development iterations. (p.4)
+
+### How the documents relate
+The documents relate to the BSc in Multimedia programme by providing information on its focus and assessment requirements. COMPUTING AWARD HANDBOOK_MOHE (2) (1).pdf states that the programme focuses on idea-based education, while PUSL3123_Assessment_Brief 26-27 (1).pdf provides details on the use of online storage solutions for version control, which is an aspect of the programme's design process. The two documents complement each other, with COMPUTING AWARD HANDBOOK_MOHE (2) (1).pdf providing the overall focus and PUSL3123_Assessment_Brief 26-27 (1).pdf providing specific implementation details.",COMPUTING AWARD HANDBOOK_MOHE (2) (1).pdf (page 18); COMPUTING AWARD HANDBOOK_MOHE (2) (1).pdf (page 5); COMPUTING AWARD HANDBOOK_MOHE (2) (1).pdf (page 4); PUSL3123_Assessment_Brief 26-27 (1).pdf (page 4); PUSL3123_Assessment_Brief 26-27 (1).pdf (page 2); PUSL3123_Assessment_Brief 26-27 (1).pdf (page 13),36.014,,

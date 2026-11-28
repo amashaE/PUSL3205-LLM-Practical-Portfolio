@@ -1,0 +1,1734 @@
+
+================================================================================
+DOCUMENT: COMPUTING AWARD HANDBOOK_MOHE (2) (1).pdf
+PAGE: 1
+================================================================================
+COMPUTING AWARDS HANDBOOK  NSBM|Faculty of Computing 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+UGC COMPUTING AWARDS  
+HANDBOOK 
+ 
+ 
+ 
+ 
+Faculty of Computing 
+NSBM Green University Town 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Web URL: www.nsbm.ac.lk 
+LMS URL: www.lmsnew.nsbm.lk 
+Phone: 0115446000 
+Email: soc@nsbm.lk
+
+================================================================================
+DOCUMENT: COMPUTING AWARD HANDBOOK_MOHE (2) (1).pdf
+PAGE: 2
+================================================================================
+COMPUTING AWARDS HANDBOOK  NSBM|Faculty of Computing 
+Faculty of Computing 
+ 
+ 
+The Faculty of Computing provides world class education and training in Computing and Information 
+Technology, both at undergraduate as well as post graduate levels. The Faculty of Computing has also 
+partnered with the world top ranking universities, University College Dublin in Ireland, University of 
+Plymouth in UK and Victoria University in Australia to provide undergraduates with highly recognized 
+International Degrees. The innovative teaching methods along with the latest state of the art equipment 
+form the perfect blend that motivates our students to do their best and reach their goals with ease. The 
+Faculty provides top notch research, training and development services that will help students acquire 
+new knowledge along with the best practices in their respective disciplines. The Faculty of Computing 
+aims to be among the foremost center of excellence in Research and Development (R&D) and advance 
+education in Computing while taking into consideration National as well as Regional requirements for 
+Information and Communication Technology. The Faculty of Computing places equal emphasis on both 
+theory and practice of all aspects of the Computing enabling our students to have sufficient hand on 
+experience to take up any working assignment in their respective IT fields at the end of their degree 
+program. So, look no further for that perfect Computing degree, NSBM’s Faculty of Computing is the ideal 
+choice!
+
+================================================================================
+DOCUMENT: COMPUTING AWARD HANDBOOK_MOHE (2) (1).pdf
+PAGE: 3
+================================================================================
+COMPUTING AWARDS HANDBOOK  NSBM|Faculty of Computing 
+Deans Message 
+ 
+Welcome to the Faculty of Computing of the NSBM Green University Town. 
+NSBM is a dynamic young organization offering innovative educational products to cater to the needs of 
+the fast developing business and industrial economies in the world.  Let me congratulate you in becoming 
+part of this dynamic organization. 
+Your course of study will be up to date and relevant, will be delivered by well qualified staff and it is geared 
+to prepare you for employment. NSBM Graduate profile and student charter aims to develop the students 
+to achieve what they expect in the career path. As students of the NSBM you are expected to work hard 
+and to set high standards. To help you achieve success you are provided with an excellent staff and student 
+support services to help deal with your needs. Our academic, administrative and technical staffs with 
+which you work will be ready to advise and facilitate you. It is your responsibility to take your course of 
+studies very seriously and make the full use of the diverse range of learning opportunities provided to you 
+managing your time effectively in class and in self-directed assignments. Our wish is to see that you 
+become successful in life and be a good ambassador for the university.  
+Inevitably at the start of all study program you will be shelled with a host of well-intentioned information.  
+Some of that information is important to start your studies immediately and make sure that you are in 
+the right place at the right time.  Some information you will need later in your course, whilst other 
+information is about the services the University offers generally which you may need to refer to in the
+
+================================================================================
+DOCUMENT: COMPUTING AWARD HANDBOOK_MOHE (2) (1).pdf
+PAGE: 3
+================================================================================
+information is about the services the University offers generally which you may need to refer to in the 
+future. We suggest that you download the NSBM student handbook and keep it for reference and 
+familiarize yourself with the range of information it contains.  This should be the first document of your 
+own e-archive - get into the habit of downloading essential documents like module descriptors and session 
+plans when the course starts. 
+You are now part of the NSBM family and we look forward to working with you to help you to succeed as 
+an NSBM Graduate. 
+Very best wishes, 
+Dean 
+Faculty of Computing
+
+================================================================================
+DOCUMENT: COMPUTING AWARD HANDBOOK_MOHE (2) (1).pdf
+PAGE: 4
+================================================================================
+COMPUTING AWARDS HANDBOOK  NSBM|Faculty of Computing 
+ 
+Table of Contents 
+Faculty of Computing ................................................................................................................................... 2 
+Deans Message ............................................................................................................................................. 3 
+Bachelor of Science in Management Information Systems (Special) ......................................................... 6 
+Program Content: ......................................................................................................................................... 7 
+Bachelor of Science (Honours) in Software Engineering ............................................................................ 9 
+Program Content: ....................................................................................................................................... 10 
+Bachelor of Science (Honours) in Computer Science ................................................................................ 12 
+Program Content: ....................................................................................................................................... 13 
+Bachelor of Science (Honours) in Computer Networks ............................................................................ 15 
+Program Content: ....................................................................................................................................... 16 
+Bachelor of Science in Multimedia ............................................................................................................ 18
+
+================================================================================
+DOCUMENT: COMPUTING AWARD HANDBOOK_MOHE (2) (1).pdf
+PAGE: 4
+================================================================================
+Bachelor of Science in Multimedia ............................................................................................................ 18 
+Program Content: ....................................................................................................................................... 19
+
+================================================================================
+DOCUMENT: COMPUTING AWARD HANDBOOK_MOHE (2) (1).pdf
+PAGE: 5
+================================================================================
+COMPUTING AWARDS HANDBOOK  NSBM|Faculty of Computing 
+ 
+University Grants Commission & Ministry of Higher education approved degrees offered by NSBM 
+Green University Town 
+BSc in Management Information Systems (Special) 
+BSc (Hons) in Software Engineering 
+BSc (Hons) in Computer Science 
+BSc (Hons) in Computer Networks 
+BSc in Multimedia
+
+================================================================================
+DOCUMENT: COMPUTING AWARD HANDBOOK_MOHE (2) (1).pdf
+PAGE: 6
+================================================================================
+COMPUTING AWARDS HANDBOOK  NSBM|Faculty of Computing 
+Bachelor of Science in Management Information Systems (Special) 
+ 
+BSc in Management Information Systems (Special) program at NSBM Faculty of Computing is a carefully 
+designed interdisciplinary program focusing on both computing and business aspect. The MIS graduate 
+aims to leverage technology, people and processes to improve an organization’s operational efficiency 
+and to make substantive contributions to the use of information systems in corporate decision making. 
+Overview of the Program 
+This four-year program specifically targets to produce IS professionals with the required knowledge and 
+skills. During the first academic year, students are learning the fundamentals of computing which is 
+essential to advance their knowledge in any computing discipline. During the second year of studies, 
+students are learning demanding topics in the computing industry.  During the third year, students learn 
+IT-business oriented modules along with mandatory industry placement. During their final year, students 
+are provided with knowledge and understanding of diverse subject domains and an individual award 
+project that allow them to showcase their learning over the years.  
+Key Features: 
+UGC Approved 4-year honours degree amalgamating computing and business disciplines 
+A diverse choice of elective modules to choose from, in their final year of studies, to cater to individual 
+preferences and ambitions 
+Includes mandatory industry placement and supervised research projects element 
+Focuses on infusing entrepreneurial skills 
+AWARD 
+BSc in Management Information Systems (Special) 
+DURATION 
+4 Years 
+ACADEMIC PROGRESSION 
+MSc, MBA, PhD 
+CAREER PROSPECTS
+
+================================================================================
+DOCUMENT: COMPUTING AWARD HANDBOOK_MOHE (2) (1).pdf
+PAGE: 6
+================================================================================
+Focuses on infusing entrepreneurial skills 
+AWARD 
+BSc in Management Information Systems (Special) 
+DURATION 
+4 Years 
+ACADEMIC PROGRESSION 
+MSc, MBA, PhD 
+CAREER PROSPECTS 
+Software Engineer, Business Analyst, Quality Assurance Engineer, UI Engineer, System Support Engineer, 
+Web Design, IT Management Interns, Project managers
+
+================================================================================
+DOCUMENT: COMPUTING AWARD HANDBOOK_MOHE (2) (1).pdf
+PAGE: 7
+================================================================================
+COMPUTING AWARDS HANDBOOK  NSBM|Faculty of Computing 
+Program Content: */** 
+YEAR 01 
+ 
+YEAR 02 
+Module Code Module Name Credit 
+Value 
+Type 
+MA201.3 Statistics for Computing 3 Core 
+SE201.3 Systems Analysis and Design 3 Core 
+SE204.3 Development of Enterprise Applications I 3 Core 
+IS202.3 Foundations of Information Systems 3 Core 
+BS201.3 Business Studies 3 Core 
+SE202.3 Introduction to Software Engineering 3 Core 
+CN201.3 Computer Networks 3 Core 
+SE206.3 Human Computer Interaction 3 Core 
+IS204.3 Business Process Management 3 Core 
+IS202.3 Enterprise Systems 3 Core 
+ 
+YEAR 03 
+Module Code Module Name Credit 
+Value 
+Type 
+CS301.3 IT Project Management 3 Core 
+CS304.3 Advanced Database Management Systems 3 Core 
+SE303.3 Mobile Application Development 3 Elective 
+SE305.6 Internship# 6 Core 
+SE307.3 Social Issues and Professional Practice 3 Core 
+IS302.3  IT Audit and Control 3 Elective 
+IS301.3 Enterprise Architecture 3 Core 
+CN302.3 Wireless Technologies and Network Programming 3 Elective 
+CS306.3 Information Assurance and Security 3 Elective 
+SE304.3 Software Quality Assurance 3 Elective 
+SE308.3 Software Process Management 3 Elective 
+Module Code Module Name Credit 
+Value 
+Type 
+CS101.3 Introduction to Computer Science  3 Core 
+MA101.3 Mathematics for Computing 3 Core 
+CS102.3 Programming in C  3 Core 
+CS103.3 Professional Development  3 Core 
+CN101.3 Data Communication and Networks  3 Core 
+SE101.3 Object Oriented Programming with Java  3 Core 
+CS106.3 Algorithms and Data Structures 3 Core 
+CS104.3 Computer Architecture  3 Core 
+CS105.3 Database Management Systems  3 Core 
+SE102.3 Web Based Application Development  3 Core
+
+================================================================================
+DOCUMENT: COMPUTING AWARD HANDBOOK_MOHE (2) (1).pdf
+PAGE: 8
+================================================================================
+COMPUTING AWARDS HANDBOOK  NSBM|Faculty of Computing 
+YEAR 04 
+Module Code Module Name Credit 
+Value 
+Type 
+BS401.3 Business Policy and Strategy 3 Elective 
+BS402.3 Entrepreneurship 3 Elective 
+CN402.3 Enterprise Networks 3 Core 
+IS401.3 Management Information Systems 3 Core 
+IS405.6 MIS Special Award Project 6 Core 
+SE402.3 Development of Enterprise Applications II 3 Elective 
+IS404.3 Business Analytics 3 Elective 
+CN406.3 Disaster Recovery and High Availability Techniques 3 Elective 
+CS405.3 Data Warehousing and Data Mining 3 Elective 
+CS407.3 Internet of Things 3 Elective 
+SE403.3 Platform Based Development   3 Elective 
+SE404.3 Agent Based Systems 3 Elective 
+IS402.3 E-Business Application Development 3 Elective 
+ 
+# Internship module does not contribute to the GPA calculation for the determination of the Award classification but contributes 
+to the credit requirement at Level 3. 
+* Course content may update periodically 
+** Elective modules will be offered with the prior approval of the faculty board
+
+================================================================================
+DOCUMENT: COMPUTING AWARD HANDBOOK_MOHE (2) (1).pdf
+PAGE: 9
+================================================================================
+COMPUTING AWARDS HANDBOOK  NSBM|Faculty of Computing 
+Bachelor of Science (Honours) in Software Engineering 
+BSc (Honours) in Software Engineering program at NSBM Faculty of Computing is carefully designed in 
+line with the latest ACM and IEEE guidelines for Software Engineering undergraduate awards and aims to 
+produce competent and well molded computer professionals who can engineer the design and 
+construction of complex software systems. 
+OVERVIEW OF THE PROGRAM 
+The program is structured in a way to provide students with a broader computing perspective in the first 
+year and focusing on the core software engineering body of knowledge in the second and third years. 
+Students also undergo compulsory industry training in the third year. In the fourth year, students mould 
+with knowledge and understanding of diverse subject domains and an individual award project that allow 
+them to showcase their learning over the years.  
+ 
+KEY FEATURES 
+UGC Approved 4-year honours degree 
+A diverse choice of elective modules to choose from, in their final year of studies, to cater to individual 
+preferences and ambitions 
+Includes mandatory industry placement and supervised research projects element 
+Focuses on infusing knowledge and skills to develop and maintain Computer Networks within an 
+organization or between organizations 
+AWARD 
+BSc (Honours) in Software Engineering 
+DURATION 
+4 Years 
+ACADEMIC PROGRESSION: 
+MSc, MBA, PhD 
+CAREER PROSPECTS: 
+Software Engineer, Systems Analyst, Quality Assurance Engineer, UI Engineer, System Support Engineer, 
+Web Design
+
+================================================================================
+DOCUMENT: COMPUTING AWARD HANDBOOK_MOHE (2) (1).pdf
+PAGE: 10
+================================================================================
+COMPUTING AWARDS HANDBOOK  NSBM|Faculty of Computing 
+Program Content: */** 
+YEAR 01 
+ 
+YEAR 02 
+Module Code Module Name Credit 
+Value 
+Type 
+CS201.3 Operating Systems  3 Core 
+SE202.3 Introduction to Software Engineering  3 Core 
+MA201.3 Statistics for Computing 3 Core 
+SE201.3 Systems Analysis and Design  3 Core 
+CS203.3 Algorithms and Complexity  3 Core 
+CN201.3 Computer Networks  3 Core 
+SE204.3 Development of Enterprise Applications I  3 Core 
+SE205.3 Software Architecture  3 Core 
+SE206.3 Human Computer Interaction  3 Core 
+IS201.3 Business Processes and ERP  3 Core 
+ 
+YEAR 03 
+Module Code Module Name Credit 
+Value 
+Type 
+MA301.3 Advanced Mathematics for Computing  3 Core 
+SE304.3 Software Quality Assurance 3 Core 
+SE307.3 Social Issues and Professional Practice 3 Core 
+SE308.3 Software Process Management 3 Core 
+CS306.3 Information Assurance and Security 3 Core 
+SE309.3 Software Verification and Validation 3 Core 
+SE305.6 Internship# 6 Core 
+CS304.3 Advanced Database Management Systems 3 Elective 
+SE303.3 Mobile Application Development 3 Elective 
+CS301.3 IT Project Management 3 Elective 
+ 
+Module Code Module Name Credit 
+Value 
+Type 
+CS101.3 Introduction to Computer Science  3 Core 
+MA101.3 Mathematics for Computing 3 Core 
+CS102.3 Programming in C  3 Core 
+CS103.3 Professional Development  3 Core 
+CN101.3 Data Communication and Networks 3 Core 
+SE101.3 Object Oriented Programming with Java  3 Core 
+CS106.3 Algorithms and Data Structures 3 Core 
+CS104.3 Computer Architecture  3 Core 
+CS105.3 Database Management Systems  3 Core 
+SE102.3 Web Based Application Development  3 Core
+
+================================================================================
+DOCUMENT: COMPUTING AWARD HANDBOOK_MOHE (2) (1).pdf
+PAGE: 11
+================================================================================
+COMPUTING AWARDS HANDBOOK  NSBM|Faculty of Computing 
+ 
+YEAR 04 
+Module Code Module Name Credit 
+Value 
+Type 
+BS401.3 Business Policy and Strategy 3 Core 
+CN402.3 Enterprise Networks 3 Elective 
+IS401.3 Management Information Systems 3 Elective 
+SE402.3 Development of Enterprise Applications II 3 Elective 
+SE401.6 SE Honours Award Project 6 Core 
+CS403.3 Artificial Intelligence   3 Elective 
+CS408.3 Embedded Systems 3 Elective 
+CS402.3 Computer Graphics and Visualization   3 Elective 
+CS404.3 Parallel and Distributed Computing 3 Elective 
+CS405.3 Data Warehousing and Data Mining 3 Elective 
+CS407.3 Internet of Things 3 Elective 
+SE403.3 Platform Based Development   3 Elective 
+SE404.3 Agent Based Systems 3 Elective 
+IS402.3 E-Business Application Development 3 Elective 
+ 
+# Internship module does not contribute to the GPA calculation for the determination of the Award classification but contributes 
+to the credit requirement at Level 3. 
+* Course content may update periodically 
+** Elective modules will be offered with the prior approval of the faculty board
+
+================================================================================
+DOCUMENT: COMPUTING AWARD HANDBOOK_MOHE (2) (1).pdf
+PAGE: 12
+================================================================================
+COMPUTING AWARDS HANDBOOK  NSBM|Faculty of Computing 
+ 
+Bachelor of Science (Honours) in Computer Science 
+BSc (Honours) in Computer Science Program at NSBM Faculty of Computing is carefully designed in line 
+with the latest ACM and IEEE guidelines for Computer Science undergraduate awards and aims to produce 
+competent and well moulded computer professionals who have sound technical foundation in computer 
+science and the ability to creatively apply computer and related technologies to practical problems. 
+Overview of the Program 
+The Program is structured in a way to provide students with a broader computing perspective in the first 
+year and focusing on the core Computer Science body of knowledge in the second and third years. 
+Students also undergo compulsory industry training in the third year. In the fourth year, students are 
+provided with knowledge and understanding of diverse subject domains and an individual award project 
+that allow them to showcase their learning over the years.  
+Key Features: 
+UGC Approved 4-year honours degree 
+A diverse choice of elective modules to choose from, in their final year of studies, to cater to individual 
+preferences and ambitions 
+Includes mandatory industry placement and supervised research projects element 
+Focuses on developing knowledge and skills in breadth and depth 
+AWARD 
+BSc (Honours) in Computer Science 
+DURATION 
+4 Years 
+ACADEMIC PROGRESSION: 
+MSc, MBA, PhD 
+CAREER PROSPECTS: 
+Analysts, Designers, Architects, Developers, Testing and QA Specialists, System Administrators, 
+Business/technology Analysts and System Integrators.
+
+================================================================================
+DOCUMENT: COMPUTING AWARD HANDBOOK_MOHE (2) (1).pdf
+PAGE: 13
+================================================================================
+COMPUTING AWARDS HANDBOOK  NSBM|Faculty of Computing 
+Program Content: */** 
+YEAR 01 
+ YEAR 02 
+Module Code Module Name Credit 
+Value 
+Type 
+MA201.3 Statistics for Computing  3 Core 
+SE201.3 Systems Analysis and Design  3 Core 
+SE204.3 Development of Enterprise Applications I 3 Core 
+SE205.3 Software Architecture  3 Core 
+CS202.3 Systems Fundamentals  3 Core 
+SE202.3 Introduction to Software Engineering  3 Core 
+CN201.3 Computer Networks  3 Core 
+SE206.3 Human Computer Interaction  3 Core 
+CS203.3 Algorithms and Complexity  3 Core 
+CS201.3 Operating Systems 3 Core 
+ 
+YEAR 03 
+Module 
+Code 
+Module Name Credit 
+Value 
+Type 
+CS304.3 Advanced Database Management Systems 3 Core 
+SE303.3 Mobile Application Development 3 Elective 
+SE305.6 Internship# 6 Core 
+SE307.3 Social Issues and Professional Practice 3 Core 
+MA301.3 Advanced Mathematics for Computing 3 Core 
+CS303.3 Computational Theory 3 Core 
+CS305.3 Programming Languages and Compiler Design 3 Core 
+CN302.3 Wireless Technologies and Network Programming 3 Elective 
+CS306.3 Information Assurance and Security 3 Core 
+SE308.3 Software Process Management 3 Elective 
+CS302.3 Cryptography 3 Elective 
+ 
+ 
+Module Code Module Name Credit 
+Value 
+Type 
+CS101.3 Introduction to Computer Science  3 Core 
+MA101.3 Mathematics for Computing 3 Core 
+CS102.3 Programming in C  3 Core 
+CS103.3 Professional Development  3 Core 
+CN101.3 Data Communication and Networks 3 Core 
+SE101.3 Object Oriented Programming with Java  3 Core 
+CS106.3 Algorithms and Data Structures 3 Core 
+CS104.3 Computer Architecture  3 Core 
+CS105.3 Database Management Systems  3 Core 
+SE102.3 Web Based Application Development  3 Core
+
+================================================================================
+DOCUMENT: COMPUTING AWARD HANDBOOK_MOHE (2) (1).pdf
+PAGE: 14
+================================================================================
+COMPUTING AWARDS HANDBOOK  NSBM|Faculty of Computing 
+YEAR 04 
+Module Code Module Name Credit 
+Value 
+Type 
+BS401.3 Business Policy and Strategy 3 Elective 
+BS402.3 Entrepreneurship 3 Elective 
+SE402.3 Development of Enterprise Applications II 3 Elective 
+CS403.3 Artificial Intelligence   3 Core 
+CS408.3 Embedded Systems 3 Elective 
+CS402.3 Computer Graphics and Visualization   3 Core 
+CS404.3 Parallel and Distributed Computing 3 Core 
+CS405.3 Data Warehousing and Data Mining 3 Elective 
+CS407.3 Internet of Things 3 Elective 
+SE403.3 Platform Based Development   3 Elective 
+SE404.3 Agent Based Systems 3 Elective 
+CS401.6 CS Honours Award Project 6 Core 
+CS406.3 Bio Informatics 3 Elective 
+ 
+# Internship module does not contribute to the GPA calculation for the determination of the Award classification but contributes 
+to the credit requirement at Level 3. 
+* Course content may update periodically 
+** Elective modules will be offered with the prior approval of the faculty board
+
+================================================================================
+DOCUMENT: COMPUTING AWARD HANDBOOK_MOHE (2) (1).pdf
+PAGE: 15
+================================================================================
+COMPUTING AWARDS HANDBOOK  NSBM|Faculty of Computing 
+ 
+Bachelor of Science (Honours) in Computer Networks 
+BSc (Honours) in Computer Networks program at NSBM Faculty of Computing is carefully designed in line 
+with the latest subject benchmarks for Computer Networks undergraduate awards and aims to produce 
+competent and well moulded network professionals who are capable of developing and managing 
+complex network systems.  
+Overview of the Program 
+This is a four-year degree program that aims to produce graduates with required skills and knowledge in 
+the core and emerging subject areas in Computer Networks. Students also undergo compulsory industry 
+training in the third year and the fourth year, students are provided with knowledge and understanding 
+of diverse subject domains and an individual award project that allow them to showcase their learning 
+over the years.  
+Key Features: 
+UGC Approved 4-year honours degree 
+A diverse choice of elective modules to choose from, in their final year of studies, to cater to individual 
+preferences and ambitions 
+Includes mandatory industry placement and supervised research projects element 
+Focuses on infusing knowledge and skills to develop and maintain Computer Networks within an 
+organization or between organizations 
+ 
+AWARD 
+BSc (Honours) in Computer Networks 
+DURATION 
+4 Years 
+ACADEMIC PROGRESSION 
+MSc, MBA, PhD 
+CAREER PROSPECTS 
+Network Administrator, Network Engineer, Network Analyst, IT/Systems Support Engineer, Network 
+Architect, VoIP Engineer.
+
+================================================================================
+DOCUMENT: COMPUTING AWARD HANDBOOK_MOHE (2) (1).pdf
+PAGE: 16
+================================================================================
+COMPUTING AWARDS HANDBOOK  NSBM|Faculty of Computing 
+Program Content: */** 
+YEAR 01 
+ 
+YEAR 02 
+Module Code Module Name Credit 
+Value 
+Type 
+MA201.3 Statistics for Computing  3 Core 
+SE201.3 Systems Analysis and Design  3 Core 
+SE204.3 Development of Enterprise Applications I 3 Core 
+CN202.3 Network Management 3 Core 
+CN205.3 Voice and Video over IP 3 Core 
+CN201.3 Computer Networks 3 Core 
+SE206.3 Human Computer Interaction 3 Core 
+CS201.3 Operating Systems 3 Core 
+CN203.3 Network Systems Configuration and Administration 3 Core 
+CN204.3 Network Security  3 Core 
+ 
+YEAR 03 
+Module Code Module Name Credit 
+Value 
+Type 
+CS301.3 IT Project Management 3 Core 
+SE305.6 Internship# 6 Core 
+IS301.3 Enterprise Architecture 3 Elective 
+MA301.3 Advanced Mathematics for Computing 3 Elective 
+CN301.3 Advanced Routing and Switching 3 Core 
+CN303.3 Service Provider Systems and Networks 3 Core 
+CN302.3 Wireless Technologies and Network Programming 3 Core 
+CS306.3 Information Assurance and Security 3 Core 
+CS302.3 Cryptography 3 Elective 
+IS302.3 IT Audit and Control 3 Elective 
+SE307.3 Social Issues and Professional Practice 3 Core 
+ 
+Module Code Module Name Credit 
+Value 
+Type 
+CS101.3 Introduction to Computer Science  3 Core 
+MA101.3 Mathematics for Computing 3 Core 
+CS102.3 Programming in C  3 Core 
+CS103.3 Professional Development  3 Core 
+CN101.3 Data Communication and Networks 3 Core 
+SE101.3 Object Oriented Programming with Java  3 Core 
+CS106.3 Algorithms and Data Structures 3 Core 
+CS104.3 Computer Architecture  3 Core 
+CS105.3 Database Management Systems  3 Core 
+SE102.3 Web Based Application Development  3 Core
+
+================================================================================
+DOCUMENT: COMPUTING AWARD HANDBOOK_MOHE (2) (1).pdf
+PAGE: 17
+================================================================================
+COMPUTING AWARDS HANDBOOK  NSBM|Faculty of Computing 
+ 
+YEAR 04 
+Module Code Module Name Credit 
+Value 
+Type 
+BS401.3 Business Policy and Strategy 3 Elective 
+BS402.3 Entrepreneurship 3 Elective 
+CN402.3 Enterprise Networks 3 Core 
+IS401.3 Management Information Systems 3 Elective 
+CN406.3 Disaster Recovery and High Availability Techniques 3 Core 
+CS408.3 Embedded Systems 3 Elective 
+CS404.3 Parallel and Distributed Computing 3 Elective 
+CS405.3 Data Warehousing and Data Mining 3 Elective 
+CS407.3 Internet of Things 3 Elective 
+SE403.3 Platform Based Development   3 Elective 
+IS402.3 E-Business Application Development 3 Elective 
+CN401.6 CN Honours Award Project 6 Core 
+CN403.3 Intrusion Prevention, Detection & Response 3 Core 
+ 
+# Internship module does not contribute to the GPA calculation for the determination of the Award classification but contributes 
+to the credit requirement at Level 3. 
+* Course content may update periodically 
+** Elective modules will be offered with the prior approval of the faculty board
+
+================================================================================
+DOCUMENT: COMPUTING AWARD HANDBOOK_MOHE (2) (1).pdf
+PAGE: 18
+================================================================================
+COMPUTING AWARDS HANDBOOK  NSBM|Faculty of Computing 
+Bachelor of Science in Multimedia 
+ 
+BSc in Multimedia is a three-year degree program offered by NSBM with the approval of the UGC. This 
+program focuses on idea-based education and main emphasis is given for conceptualization and ideation 
+through the design process. 
+Overview of the Program 
+This is a multi-disciplinary course providing the students with a comprehensive education on the design 
+process, research, management, production and finally evaluation. The first year will give them 
+opportunity to explore their creativity, thinking patterns while learning the key concepts of design. The 
+second year will be a combination of lectures and different types of practical sessions where they will 
+learn the practical applications of knowledge. Third year has a compulsory industry training to apply the 
+learnt theories, principles and practical knowledge in real life scenarios. Further they get to learn about 
+the diverse subject domains and conduct an individual project from initiation to execution. 
+Key Features 
+UGC Approved 3-year degree 
+A diverse area of learning with theoretical knowledge and practical experience 
+Many different job opportunities in the Multimedia sector with a lot of scope for new developments and 
+a promise for a highly acclaimed career   
+ 
+Practice the learnt design knowledge through the mandatory 90-day internship program in the 3rd year 
+ 
+AWARD 
+BSc in Multimedia 
+DURATION 
+3 Years 
+ACADEMIC PROGRESSION: 
+MSc, PhD 
+CAREER PROSPECTS: 
+Graphic and Communication Designer, Art Director, Creative Director, Video Editor, Production Director, 
+2D and 3D Visualizer, Animation Designer, Virtual Environmental Designer, Game Designer, Film Director, 
+Web and interface designer, Entrepreneur
+
+================================================================================
+DOCUMENT: COMPUTING AWARD HANDBOOK_MOHE (2) (1).pdf
+PAGE: 19
+================================================================================
+COMPUTING AWARDS HANDBOOK  NSBM|Faculty of Computing 
+Program Content: */** 
+YEAR 01 
+Module Code Module Name Credit Value Type 
+MM 1001 Concept Development 3 Core 
+MM 1002 World of Multimedia 2 Core 
+MM 1003 Computing Fundamentals 2 Core 
+MM 1004 Drawing 2 Core 
+MM 1005 Design Principles 1 3 Core 
+MM 1006 Typography Design 3 Core 
+MM 1007 Illustration 2 Core 
+MM 1008 Story Telling and Script Writing 2 Core 
+MM 1009 Art, Design and society 2 Core 
+MM 1010 Animation Studies 3 Core 
+MM 1011 Digital Imaging 3 Core 
+MM 1012 Multimedia Imaging 3 Core 
+ 
+YEAR 02 
+Module Code Module Name Credit Value Type 
+MM 1013 Photography 2 Core 
+MM 1014 Cinematography 3 Core 
+MM 1015 3D Design 1 2 Core 
+MM 1016 Game Design 2 Core 
+MM 1017 Video Editing and Production 3 Core 
+MM 1018 Interactive Design 3 Core 
+MM 1019 Advertising and Media Art 3 Core 
+MM 1020 Multimedia Project Management 3 Core 
+MM 1021 3D Design 2 2 Core 
+MM 1022 Web Design 2 Core 
+MM 1023 Design Principles 2 2 Core 
+MM 1024 Visual Communication 3 Core 
+ 
+YEAR 03 
+Module Code Module Name Credit Value Type 
+MM 1025 Multimedia Production 2 Core 
+MM 1026 Professional Studies 3 Core 
+MM 1027 Visual Effects Production 3 Core 
+MM 1028 Research Methodology 2 Core 
+MM 1029 Dissertation 5 Core 
+MM 1030 Internship# 4 Core 
+MM 1031 Media Law and Ethics 2 Core 
+MM 1032 Entrepreneurship 3 Core 
+MM 1033 Final Project 6 Core
+
+================================================================================
+DOCUMENT: COMPUTING AWARD HANDBOOK_MOHE (2) (1).pdf
+PAGE: 20
+================================================================================
+COMPUTING AWARDS HANDBOOK  NSBM|Faculty of Computing
+
+================================================================================
+DOCUMENT: PUSL3123_Assessment_Brief 26-27 (1).pdf
+PAGE: 1
+================================================================================
+PUSL3123 
+AI and Machine Learning 
+ 
+20 CREDIT MODULE 
+ 
+ASSESSMENT: 100% Coursework  W1: 50% Set Exercises 
+       W2: 50% Report 
+ 
+MODULE LEADER: Dr Vivek Singh 
+ 
+MODULE AIMS 
+ 
+• To investigate unsupervised, supervised and reinforcement learning from Bayesian 
+perspectives in the context of machine learning. 
+• To review and apply learning techniques and artificial intelligence concepts towards data 
+representations and decision-making and prediction systems. 
+• To identify, select and use techniques such as search and optimisation, knowledge 
+representation and reasoning, and machine learning for analysing datasets and control 
+real-time systems. 
+• To reflect on the importance of ethical considerations behind the use of artificial 
+intelligence. 
+ 
+ASSESSED LEARNING OUTCOMES (ALO): 
+      
+1. Provide a systematic understanding of the principles of unsupervised, supervised and 
+reinforcement learning. 
+2. Demonstrate the ability to apply and evaluate machine learning techniques to make 
+decisions on real data sets and real-time control scenarios. 
+3. Investigate and analyse a range of artificial intelligence methods and their applications. 
+4. Compare and contrast artificial intelligence paradigms and evaluate the appropriateness 
+of a particular paradigm for specific application domains. 
+5. Analyse a chosen sample domain and identify, and apply effective artificial intelligence 
+methods to address existing challenges.
+
+================================================================================
+DOCUMENT: PUSL3123_Assessment_Brief 26-27 (1).pdf
+PAGE: 2
+================================================================================
+1 
+ 
+Overview 
+ 
+This document contains all the necessary information pertaining to the assessment of COMP2000 
+(Software Engineering 2). The module is assessed via 100% coursework, across two elements: 
+1. 50% Set Exercises 
+2. 50% Report 
+ 
+The sections that follow will detail the assessment tasks that are to be undertaken. The submission 
+and expected feedback dates are presented in Table 1.  All assessments are to be submitted 
+electronically via the respective DLE module pages before the stated deadlines. 
+ 
+ Submission Deadline Feedback 
+Set Exercises (50%) (16:00) 7/12/2027 Within 20 working days 
+Report (50%) (16:00) 12/01/2027 Within 20 working days 
+Table 1: Assessment Deadlines 
+ 
+All assessments will be introduced in class to provide further clarity over what is expected and how 
+you can access support and formative feedback prior to submission.  Whilst the assessment 
+information is provided at the start of the module, it is not necessarily expected you will start 
+this immediately – as you will often not have sufficient understanding of the topic. The module 
+leader will provide guidance in this respect. 
+ 
+ 
+Moderation 
+This assignment brief has been moderated in line with the university policy. 
+ 
+Moderator Name Moderation Date 
+Bogdan Ghita
+
+================================================================================
+DOCUMENT: PUSL3123_Assessment_Brief 26-27 (1).pdf
+PAGE: 3
+================================================================================
+2 
+ 
+Useful Assignment Information 
+ 
+Please see below some useful information regarding submissions for your modules. 
+ 
+Good Coding Practices 
+Like all things, no code is perfect. Just because your code compiles and runs does not mean it is 
+perfect, there is always room for improvement. No code will achieve 100% of the available marks. 
+Where code submission is required by a module, it will be assessed against the following criteria: 
+ 
+1) Functionality 
+a. Does your code meet all the specified requirements of the assignment? 
+b. Does your code behave correctly across typical and edge-case scenarios? 
+c. Does you code have appropriate error handling that does not leading to it crashing or 
+undefined behaviour? 
+2) Efficiency 
+a. Is your code optimised in terms of performance and resource use? 
+b. Does you code handle functions, variables, data calls efficiently? 
+c. Is there any unnecessary repetition, complexity or processing reducing efficiency 
+within your code? 
+3) Readability 
+a. Is your code logically structured and easy to read? 
+b. Have you maintained standard formatting conventions like indentations, spacing and 
+naming, within your code? 
+c. Are variables, functions, and classes clearly named and purposeful? 
+4) Documentation 
+a. Are there helpful comments explaining non-obvious parts of your code? 
+b. Do your comments document your process, development or rationale clearly? 
+c. Could someone unfamiliar with the code understand the approach you have taken? 
+ 
+Use of Generative AI for Creating Code 
+Each assignment element for each module will have a clear indication of the permitted level of use 
+of AI (solo, assisted or partnered) including the generation of code. Please ensure that you read
+
+================================================================================
+DOCUMENT: PUSL3123_Assessment_Brief 26-27 (1).pdf
+PAGE: 3
+================================================================================
+Each assignment element for each module will have a clear indication of the permitted level of use 
+of AI (solo, assisted or partnered) including the generation of code. Please ensure that you read 
+and understand the permitted use. If you are unsure of a particular use, please reach out to the 
+Module Leader and ask. 
+ 
+We strongly encourage you to read and explore beyond the core content delivered within the 
+modules. However, this must be done correctly following academic process. Wherever code is 
+drawn from an outside source (e.g. you have not written it yourself), regardless of whether this is 
+AI generated or from an online repository (GitHub, Stack Overflow etc) you must reference the 
+original source. This can be done in your documentation as comments or part of your write ups. 
+Students found to be utilising code without referencing could face an academic offence. If in 
+doubt speak to your Module Leader.
+
+================================================================================
+DOCUMENT: PUSL3123_Assessment_Brief 26-27 (1).pdf
+PAGE: 4
+================================================================================
+3 
+ 
+Versioning 
+A critical part of a development (software or academic) is versioning. Keeping a number of 
+iterations over the course of development ensures you always have backups to fall back on. It also 
+provides clear demonstration of the development process you implemented. 
+ 
+Using online/cloud-based storage solutions and repositories provide additional peace of mind, 
+alongside being industry practice. The university provide OneDrive to all students which offers 
+inbuilt version history for Microsoft products. GitHub is the university recommended repository for 
+versioning code, which includes great integration with a number of IDEs. 
+ 
+Submitting Code 
+It is vital that you confirm that all code that you submit is in the correct format and compiles 
+correctly or runs without error. If you clean up your code before submission, please ensure that 
+all dependencies (libraries, functions and variables) are included so that the marker can compile 
+your code.  
+ 
+We can only mark what has been submitted. If the code does not run correctly, it is not our 
+responsibility to spend time error handling to award you marks. 
+ 
+It is also important to show your working. Tidying up your code is a critical part of coding 
+practices, but if you remove the workings that provides you with the required output, we cannot 
+see how you got there.  
+ 
+In a worst-case scenario, if you remove a key part of your working, and on compiling your code it 
+gives an error or different result, we have no way of confirming what went wrong, or indeed if you 
+fabricated those outputs. 
+ 
+Please note, just because a piece of code has given the wrong output, it does not mean it should 
+be deleted. Seeing these attempts with comments documenting your attempt allows us to
+
+================================================================================
+DOCUMENT: PUSL3123_Assessment_Brief 26-27 (1).pdf
+PAGE: 4
+================================================================================
+Please note, just because a piece of code has given the wrong output, it does not mean it should 
+be deleted. Seeing these attempts with comments documenting your attempt allows us to 
+understand where you may have made an error and provide feedback that addresses this. In 
+some cases, you could also be awarded marks for the attempt.
+
+================================================================================
+DOCUMENT: PUSL3123_Assessment_Brief 26-27 (1).pdf
+PAGE: 5
+================================================================================
+4 
+ 
+Assessment 1: Set Exercises 
+ 
+Overview 
+The objective of this coursework is to investigate how neural network architecture, regularisation, data 
+augmentation, and model complexity influence image classification performance. 
+ 
+Students will implement and evaluate Multi -Layer Perceptron (MLP) and Convolutional Neural Network 
+(CNN) classifiers using the CIFAR- 10 image classification dataset. The coursework emphasises controlled 
+experimentation, critical analysis of results, and understanding the factors that influence neural network 
+performance and generalisation when working with natural images. 
+ 
+Dataset 
+Use the CIFAR-10 dataset, available through the torchvision.datasets.CIFAR10 library. The dataset contains 
+60,000 colour (RGB) images of size 32 × 32 pixels, belonging to 10 classes: aeroplane, automobile, bird, cat, 
+deer, dog, frog, horse, ship, and truck. Students must use the standard CIFAR-10 training and test partitions: 
+• Training partition: 50,000 images. 
+• Test partition: 10,000 images. 
+The original test partition must remain separate and must not be used for training, hyperparameter tuning, or 
+model selection. 
+  
+ 
+Exercise 1: Multi-Layer Perceptron Classifier (13 Marks) 
+Develop and train a Multi-Layer Perceptron to classify the datasets presented above in relevant classes. 
+ 
+Requirements: 
+1. Implement a MLP containing three trainable layers. 
+2. Select suitable activation functions, a loss function, and an optimisation algorithm. 
+3. Implement the data preprocessing, training, and evaluation procedures using PyTorch. 
+4. Evaluate the classifier and report its training, and test performance. 
+5. Present the training and validation loss plots. 
+ 
+ 
+Exercise 2: Convolutional Neural Network Classifier (10 Marks)
+
+================================================================================
+DOCUMENT: PUSL3123_Assessment_Brief 26-27 (1).pdf
+PAGE: 5
+================================================================================
+4. Evaluate the classifier and report its training, and test performance. 
+5. Present the training and validation loss plots. 
+ 
+ 
+Exercise 2: Convolutional Neural Network Classifier (10 Marks) 
+Replace the MLP with a Convolutional Neural Network and investigate the effect of using convolutional layers 
+for image classification. 
+ 
+Requirements: 
+1. Develop a CNN with three trainable layers . Pooling and activation operations may be included as 
+required. 
+2. Train and evaluate the CNN using the same dataset partitions as Exercise 1. 
+3. Use comparable training settings wherever practical. 
+4. Compare the MLP and CNN using classification accuracy, training and validation loss, and model 
+parameter counts. 
+5. Discuss the differences in performance and explain how convolutional operations influence image 
+feature learning. 
+ 
+ 
+Exercise 3: Regularisation and Generalisation (17 Marks)
+
+================================================================================
+DOCUMENT: PUSL3123_Assessment_Brief 26-27 (1).pdf
+PAGE: 6
+================================================================================
+5 
+ 
+Investigate the effects of regularisation techniques on CNN performance.  Using the CNN developed in 
+Exercise 2 as the baseline, independently implement and evaluate the following: 
+1. Dropout: Incorporate dropout into an appropriate part of the CNN. 
+2. Data augmentation:  Apply suitable training- image transformations, such as small rotations or 
+translations. 
+Each technique must initially be evaluated independently against the unchanged CNN baseline. 
+ 
+Requirements: 
+1. Use the same training and validation partitions across all experiments. 
+2. Keep training conditions consistent wherever possible. 
+3. Compare training accuracy, test accuracy, and the difference between them. 
+4. Present the results in a comparative table or graph. 
+5. Discuss which techniques improve generalisation, which have limited benefit, and possible reasons 
+for these observations. 
+ 
+ 
+Exercise 4: Effect of Model Width and Depth (10 Marks) 
+Investigate how changes in network width and depth affect classification performance and computational 
+complexity. Use an CNN architecture for this investigation. 
+ 
+Requirements: 
+1. Evaluate three network widths, change the number of kernels in each hidden layer in increasing order 
+for these architectures. 
+2. Evaluate three network depths  like the above experiment  by setting different depths levels  in the 
+model. 
+3. Evaluate the performance for all six variations of width and depth. 
+4. Keep the dataset split and remaining training conditions consistent. 
+5. Record validation accuracy, training loss, and the number of trainable model parameters. 
+6. Visualise the results using appropriate graphs, such as validation accuracy against  different model 
+widths and depths selected for the exercise.
+
+================================================================================
+DOCUMENT: PUSL3123_Assessment_Brief 26-27 (1).pdf
+PAGE: 6
+================================================================================
+6. Visualise the results using appropriate graphs, such as validation accuracy against  different model 
+widths and depths selected for the exercise. 
+7. Discuss the relationship between model complexity, accuracy, training behaviour, and potential 
+overfitting. 
+ 
+ 
+Submission Guidelines and Deliverables 
+Each group is required to submit the following two components: 
+ 
+1. Experimental Report (PDF format, 3,000 words) 
+Submit a single PDF report covering all four exercises in the order presented. Each exercise must be clearly 
+labelled and include: 
+• Description of the implemented model architectures and experimental configurations. 
+• Training and evaluation results, supported by appropriate tables, graphs, and performance metrics. 
+• Comparative analysis of the different models, techniques, and architectural variations. 
+• Critical discussion of the observations and factors influencing model performance. 
+• Individual Contributions: A clearly identified section at the start of report  outlining each group 
+member's specific contributions, including their responsibilities in implementation, experimentation, 
+analysis, and report preparation. 
+The report should include clear conclusion at the end along with relevant references. The word limit excludes 
+references and the individual contributions section.
+
+================================================================================
+DOCUMENT: PUSL3123_Assessment_Brief 26-27 (1).pdf
+PAGE: 7
+================================================================================
+6 
+ 
+2. Source Code (Jupyter Notebooks) 
+Submit the complete source code for all four exercises as  a ZIP file which contains  separate Jupyter 
+Notebooks (.ipynb) files for each of the exercise (named appropriately with exercise number). 
+• Code must include dataset preparation, model implementation, training, and evaluation. 
+• All code should be clearly organised, appropriately commented, and executable. 
+• Include the necessary dependencies and instructions to reproduce the reported results. 
+The submitted code and report must be consistent. The  group must upload both components to the 
+designated DLE submission area before the deadline. 
+ 
+ 
+Acceptable level of generative AI tool use in this assessment element 
+The table below states the level to which generative AI may be used for this assessment. In all cases, where 
+AI is specified, we are referring to generative AI. Where AI is permitted, students remain responsible for 
+checking the output and must understand and be able to explain anything they submit.  
+ 
+Solo Work You must not use generative AI tools. ☐ 
+Assisted Work You are permitted to use generative AI tools in an assistive role. ☒ 
+Partnered Work Generative AI tool use is required as an integral part of the assessment, but transparency is required. ☐ 
+Table 2: Acceptable Level of generative AI use 
+ 
+Inline with the indicated acceptable level of AI use above, the following uses are acceptable:  
+• A1 – Idea Generation and Problem Exploration 
+• A2 – Planning and Structuring Reports or Projects  
+• A4 – Language Refinement  
+  
+ 
+We are aware that some AI checkers report high levels of AI use, even if AI has not been used.  
+ 
+Any use of AI in your work must be declared within your documentation. You must also include a signed
+
+================================================================================
+DOCUMENT: PUSL3123_Assessment_Brief 26-27 (1).pdf
+PAGE: 7
+================================================================================
+Any use of AI in your work must be declared within your documentation. You must also include a signed 
+Generative AI Declaration as an appendix to your submission . The declaration form can be found on 
+DLE (or on the Programme Page). This form will not be included in any word count associated with this 
+assignment.
+
+================================================================================
+DOCUMENT: PUSL3123_Assessment_Brief 26-27 (1).pdf
+PAGE: 8
+================================================================================
+COMP2000 – Assessment 1 
+ 
+Threshold Criteria (these are indicative only): 
+ 
+Criteria Fail <40% 3rd 40–49% 2:2 50–59% 2:1 60–69% 1st 70%+ 
+Report Content (60%) 
+Report does not adequately 
+address the exercises. 
+Experimental results are 
+missing, incorrect, or poorly 
+presented, with little or no 
+meaningful analysis. 
+Report addresses some 
+requirements but contains 
+significant omissions. Results 
+and comparisons are limited, 
+with weak explanations of 
+model behaviour and 
+performance. 
+Report addresses most 
+requirements with generally 
+correct results and 
+appropriate comparisons. 
+Discussion demonstrates 
+reasonable understanding, 
+although analysis and 
+justification are limited. 
+Report comprehensively 
+addresses the exercises with 
+clear experimental results, 
+appropriate visualisations, 
+and well-supported 
+comparisons. Discussion 
+demonstrates good critical 
+understanding of model 
+performance and influencing 
+factors. 
+Report provides rigorous 
+experimental analysis, 
+comprehensive comparisons, 
+and insightful interpretation of 
+results. Demonstrates 
+excellent understanding of 
+neural network architectures, 
+generalisation, and factors 
+influencing model 
+performance. 
+Report Presentation 
+(20%) 
+Report is poorly structured or 
+difficult to follow. Tables, 
+graphs, and other supporting 
+evidence are missing, 
+unclear, or inadequately 
+labelled. Technical 
+explanations lack clarity. 
+Report has a basic structure, 
+but organisation and 
+technical explanations are 
+inconsistent. Tables, graphs, 
+or supporting evidence are 
+poorly presented or 
+insufficiently labelled. 
+Report is reasonably 
+structured and generally 
+clear. Tables and graphs 
+present most results 
+appropriately, although some 
+labelling, formatting, or 
+technical explanations require
+
+================================================================================
+DOCUMENT: PUSL3123_Assessment_Brief 26-27 (1).pdf
+PAGE: 8
+================================================================================
+Report is reasonably 
+structured and generally 
+clear. Tables and graphs 
+present most results 
+appropriately, although some 
+labelling, formatting, or 
+technical explanations require 
+improvement. 
+Report is well structured, 
+coherent, and clearly written. 
+Appropriate tables and 
+graphs are accurately 
+labelled and integrated with 
+the discussion. Technical 
+explanations and formatting 
+are consistent and effective. 
+Report demonstrates 
+exceptionally clear, coherent, 
+and professional 
+presentation. Well-designed, 
+precisely labelled tables and 
+graphs communicate results 
+effectively and are 
+seamlessly integrated with 
+concise technical 
+explanations and discussion. 
+Source Code (20%) 
+Code is missing, substantially 
+incomplete, or non-functional. 
+Major implementation errors 
+prevent meaningful execution 
+or evaluation. 
+Basic implementation is 
+present but contains 
+significant errors, incomplete 
+functionality, or poor 
+organisation and 
+documentation. 
+Most required functionality is 
+correctly implemented. Code 
+is generally executable and 
+organised, although some 
+issues with readability, 
+documentation, or 
+reproducibility remain. 
+All required models and 
+experiments are correctly 
+implemented. Code is well 
+structured, readable, 
+appropriately documented, 
+and reproducible with minor 
+issues. 
+Complete, efficient, and 
+robust implementation of all 
+exercises. Code 
+demonstrates excellent 
+organisation, readability, 
+documentation, and 
+reproducibility, with 
+appropriate programming 
+practices. 
+Feedback and Overall 
+Mark (100%)      
+ 
+Table 3: Marking scheme for Assessment 1. These criteria apply to each individual exercise in Assessment 1.
+
+================================================================================
+DOCUMENT: PUSL3123_Assessment_Brief 26-27 (1).pdf
+PAGE: 9
+================================================================================
+10 
+ 
+ 
+Assessment 2: Report 
+ 
+Facial Expression Recognition Using Deep Learning (Total Marks: 50) 
+ 
+1. Overview 
+In this coursework, students will develop a deep learning application capable of identifying facial expression 
+categories from images and demonstrating predictions in real time using a webcam.  Students must design, 
+train, evaluate, and improve a CNN-based classification model. The final model must be test in real time for 
+its performance by acquiring webcam video from a laptop to show  face detection and emotion recognition 
+capability of developed model on different facial expression category. 
+ 
+2. Dataset 
+Use the FER2013 (Facial Expression Recognition 2013)  dataset. Dataset is provided on the DLE page 
+under assessment section. Use the provided data split (train and test sets) for training and testing of models. 
+ 
+The dataset consists of 48 × 48-pixel grayscale facial images grouped into seven expression categories: 
+• Angry 
+• Disgust 
+• Fear 
+• Happy 
+• Sad 
+• Surprise 
+• Neutral 
+Students must only use the provided training and test folders.  The test set must remain separate from the 
+training and model-development processes. 
+ 
+3. Coursework Tasks 
+Task 1: Data Pipeline and Baseline CNN Development (18 Marks) 
+Develop a data processing pipeline and implement a baseline Convolutional Neural Network (CNN) for facial 
+expression classification using the FER2013 dataset. 
+ 
+Requirements: 
+1. Download and load the FER2013 dataset, examine the class distribution, and prepare training and 
+test partitions. 
+2. Implement appropriate preprocessing techniques, e.g. image resizing, normalisation, and conversion 
+to tensors. 
+3. Develop a CNN architecture containing convolutional, activation, pooling, and fully connected layers.
+
+================================================================================
+DOCUMENT: PUSL3123_Assessment_Brief 26-27 (1).pdf
+PAGE: 9
+================================================================================
+to tensors. 
+3. Develop a CNN architecture containing convolutional, activation, pooling, and fully connected layers. 
+4. Select suitable loss functions, optimisation algorithms, and training hyperparameters. 
+5. Implement the training and evaluation pipeline using PyTorch. 
+6. Evaluate the baseline model using classification accuracy, precision and recall. Present training and 
+validation curves and a confusion matrix. 
+7. Discuss the baseline performance, including the main classification errors and potential limitations. 
+ 
+Task 2: Model Improvement and Ablation Study (18 Marks) 
+Investigate strategies for improving the classification performance of the baseline CNN through controlled 
+experimental comparisons.  Students must implement and evaluate at least four different improvement 
+strategies.
+
+================================================================================
+DOCUMENT: PUSL3123_Assessment_Brief 26-27 (1).pdf
+PAGE: 10
+================================================================================
+11 
+ 
+Some examples of possible strategies are: 
+• Modifying the number and size of convolutional layers or filters. 
+• Introducing dropout, weight decay, or batch normalisation. 
+• Applying data augmentation techniques. 
+• Investigating different learning rates or optimisation algorithms. 
+• Addressing class imbalance using suitable training strategies. 
+ 
+Requirements: 
+1. Compare each variation against the baseline while keeping other experimental conditions consistent 
+wherever possible. 
+2. Evaluate all models using the same validation dataset and performance metrics. 
+3. Present comparative results using appropriate tables and graphs. 
+4. Identify the best-performing configuration based on validation results for next coursework task. 
+5. Critically discuss the effectiveness of the investigated strategies, including their advantages, 
+limitations, and effects on model generalisation. 
+ 
+Task 3: Real-Time Facial Expression Recognition and Video Demonstration (14 Marks) 
+Develop and demonstrate a real -time facial expression recognition application using the final trained CNN 
+and a laptop or desktop webcam. The demonstration must use live webcam footage of a real person 
+performing different facial expressions. 
+ 
+Requirements: 
+1. Implement real-time webcam capture and face detection using a suitable computer vision library, such 
+as OpenCV (available of DLE page). 
+2. Extract and preprocess the detected facial region before passing it to the trained CNN. 
+3. Perform real-time inference and display the predicted facial expression category and its confidence 
+score on the video feed. 
+4. Demonstrate the application on a real person displaying different facial expressions and discuss the 
+observed predictions.
+
+================================================================================
+DOCUMENT: PUSL3123_Assessment_Brief 26-27 (1).pdf
+PAGE: 10
+================================================================================
+score on the video feed. 
+4. Demonstrate the application on a real person displaying different facial expressions and discuss the 
+observed predictions. 
+ 
+Expected output: A functional webcam-based facial expression recognition application and a recorded video 
+demonstrating its real-time operation, technical implementation, results, and limitations. 
+The application must use the model developed and selected in the previous tasks. Facial expression 
+predictions should be interpreted as classifications of visible expressions rather than definitive assessments 
+of a person's emotional state. 
+ 
+ 
+Submission Guidelines and Deliverables 
+Each group is required to submit the following three components: 
+ 
+1. Implementation Report (PDF format, 3,000 words) 
+Submit a report covering all four coursework tasks, including: 
+• Dataset Preparation: Dataset description, preprocessing, data partitions, and class distribution. 
+• Baseline CNN: Model architecture, training configuration, evaluation metrics. 
+• Ablation Study:  Comparative evaluation of at least four  model variations, supported by tables, 
+graphs, and critical discussion. 
+• Real-Time Application:  Explanation of webcam integration, face detection, preprocessing, and 
+model inference. 
+• Discussion and Conclusion:  Summary of experimental findings, system limitations, and potential 
+improvements.
+
+================================================================================
+DOCUMENT: PUSL3123_Assessment_Brief 26-27 (1).pdf
+PAGE: 11
+================================================================================
+12 
+ 
+• Individual Contributions: A clearly identified section outlining each group member's responsibilities 
+and contributions to the implementation, experimentation, analysis, and report preparation. 
+The word limit excludes references, appendices, and the individual contributions section. 
+ 
+2. Source Code (ZIP File) 
+Submit a ZIP archive containing: 
+• Complete Python source code for dataset preparation, model training, evaluation, and real -time 
+inference. 
+• A README file with dependencies and instructions for executing the application. 
+ 
+3. Video Demonstration (MP4 format, 4–5 minutes) – 14 Marks 
+Submit a recorded video demonstrating the working application and presenting the implementation and 
+experimental findings. The video must include: 
+• Working Demonstration:  Show the application operating with a webcam, including live face 
+detection and real-time facial expression classification. 
+• Implementation Explanation:  Present the main components of the system, including the CNN 
+architecture, training process, and integration with the webcam application. 
+• Experimental Results: Summarise the baseline performance, key findings from the ablation study, 
+and justification for the final model. 
+ 
+All group members should participate in the presentation. All components must be uploaded to the designated 
+DLE submission area before the deadline. The submitted implementation must be functional and consistent 
+with the report and video demonstration. 
+ 
+ 
+ 
+Acceptable level of generative AI tool use in this assessment element 
+The table below states the level to which generative AI may be used for this assessment. In all 
+cases, where AI is specified, we are referring to generative AI. Where AI is permitted, students
+
+================================================================================
+DOCUMENT: PUSL3123_Assessment_Brief 26-27 (1).pdf
+PAGE: 11
+================================================================================
+The table below states the level to which generative AI may be used for this assessment. In all 
+cases, where AI is specified, we are referring to generative AI. Where AI is permitted, students 
+remain responsible for checking the output and must understand and be able to explain anything 
+they submit.  
+ 
+Solo Work You must not use generative AI tools. ☐ 
+Assisted Work You are permitted to use generative AI tools in an assistive role. ☒ 
+Partnered Work Generative AI tool use is required as an integral part of the assessment, but transparency is required. ☐ 
+Table 4: Acceptable Level of generative AI use 
+ 
+Inline with the indicated acceptable level of AI use above, the following uses are acceptable: 
+• A1 – Idea Generation and Problem Exploration 
+• A2 – Planning and Structuring Reports or Projects  
+• A4 – Language Refinement
+
+================================================================================
+DOCUMENT: PUSL3123_Assessment_Brief 26-27 (1).pdf
+PAGE: 12
+================================================================================
+13 
+ 
+We are aware that some AI checkers report high levels of AI use, even if AI has not been used.  
+ 
+Any use of AI in your work must be declared within your documentation. You must also include a 
+signed Generative AI Declaration as an appendix to your submission . The declaration form 
+can be found on DLE (or on the Programme Page). This form will not be included in any word count 
+associated with this assignment.
+
+================================================================================
+DOCUMENT: PUSL3123_Assessment_Brief 26-27 (1).pdf
+PAGE: 13
+================================================================================
+10 
+ 
+Threshold Criteria (these are indicative only): 
+ 
+Criteria Fail <40% 3rd 40–49% 2:2 50–59% 2:1 60–69% 1st 70%+ 
+Task 1: Data Pipeline 
+and Baseline CNN 
+Development (36%) 
+ 
+Data pipeline or CNN 
+implementation is missing, 
+substantially incomplete, or 
+non-functional. Training and 
+evaluation are absent or 
+incorrect. 
+Basic data preparation and 
+CNN implementation are 
+attempted, but significant 
+errors or omissions affect 
+training or evaluation. 
+Limited performance 
+evidence is provided. 
+Functional data pipeline and 
+CNN are implemented. 
+Training and evaluation are 
+generally correct, with basic 
+performance results and 
+limited discussion of 
+classification errors. 
+Well-implemented data 
+pipeline and CNN with 
+appropriate preprocessing, 
+training configuration, and 
+evaluation. Results are 
+clearly presented and 
+analysed, including 
+classification errors and 
+limitations. 
+Robust and well-structured 
+implementation with justified 
+design choices, reliable 
+training and comprehensive 
+evaluation. Results 
+demonstrate excellent 
+understanding of model 
+behaviour, classification 
+performance, and 
+limitations. 
+Task 2: Model 
+Improvement and 
+Ablation Study (36%) 
+ 
+ 
+Required experiments are 
+missing or substantially 
+incomplete. Comparisons 
+are invalid, unsupported, or 
+lack meaningful analysis. 
+Some improvement 
+strategies are attempted, 
+but experimental control, 
+comparative evidence, or 
+justification is weak. 
+Required variations may be 
+incomplete. 
+Four improvement 
+strategies are investigated 
+with generally valid 
+comparisons. Results are 
+presented, but analysis and 
+justification of the selected 
+model are limited. 
+Four well-controlled 
+experiments are conducted 
+with clear comparative 
+results. Effective analysis
+
+================================================================================
+DOCUMENT: PUSL3123_Assessment_Brief 26-27 (1).pdf
+PAGE: 13
+================================================================================
+presented, but analysis and 
+justification of the selected 
+model are limited. 
+Four well-controlled 
+experiments are conducted 
+with clear comparative 
+results. Effective analysis 
+explains the influence of 
+different strategies and 
+justifies the final model 
+selection. 
+Rigorous and systematic 
+experimentation with 
+comprehensive 
+comparisons and insightful 
+critical analysis. Model 
+selection is convincingly 
+justified, demonstrating 
+excellent understanding of 
+generalisation, performance 
+trade-offs, and limitations. 
+Task 3: Real-Time 
+Facial Expression 
+Recognition and Video 
+Demonstration (28%) 
+ 
+Webcam application is 
+missing or non-functional. 
+Video demonstration is 
+absent or provides 
+insufficient evidence of real-
+time recognition. 
+Basic webcam integration is 
+attempted, but face 
+detection or classification is 
+unreliable. Video provides 
+limited demonstration or 
+technical explanation. 
+Application demonstrates 
+basic real-time face 
+detection and expression 
+classification on a real 
+person. Video explains the 
+main functionality and 
+presents basic experimental 
+findings. 
+Functional real-time 
+application with reliable 
+webcam integration and 
+clear prediction display. 
+Well-organised video 
+demonstrates different 
+expressions, explains 
+implementation decisions, 
+and presents relevant 
+results. 
+Robust and effective real-
+time application, 
+convincingly demonstrated 
+on real human expressions. 
+Excellent video presentation 
+clearly explains the 
+technical implementation, 
+critically evaluates observed 
+predictions, and 
+communicates experimental 
+findings and limitations. 
+Feedback and Overall 
+Mark (100%)      
+ 
+Table 5: Marking scheme for Assessment 2.
+
+================================================================================
+DOCUMENT: PUSL3123_Assessment_Brief 26-27 (1).pdf
+PAGE: 14
+================================================================================
+11 
+ 
+AI Declaration 
+Complete the table below and attach it as an appendix to your submission. This table is not included in any 
+submission word count. Use it to declare your level of generative AI usage for your submission by selecting one 
+out of Solo, Assisted or Partnered Work. If you select Assisted Work, indicate how AI was used.  
+Solo Work  S1 – Generative AI tools have not been used for the preparation of your submission.   ☐  
+Assisted 
+Work  
+Generative AI tools have been used to assist you to prepare your submission.  
+Please indicate below the general tasks for which you have used AI. Select all that apply.  ☐  
+  
+A1 – Idea Generation and Problem Exploration  
+Used to generate ideas, and to explore approaches to solving a problem, developing a 
+design, or investigating a question. You must critically assess AI-generated suggestions 
+and ensure your own intellectual contributions are central.  
+☐  
+  
+A2 – Planning and Structuring Reports or Projects  
+Used to help outline the structure of reports, documentation and projects. The final 
+structure and implementation must be your own work.  
+☐  
+  
+A3 – Research Assistance  
+Used to locate and summarise relevant articles, technical documentation or online 
+resources. The interpretation and integration of research into your submission remain 
+your responsibility.  
+☐  
+  
+A4 – Language Refinement  
+Used to check grammar, refine language or improve sentence structure in reports. AI 
+should be used only to suggest improvements, and you should check the original meaning 
+is preserved. You must ensure that code documentation accurately reflects the code and 
+is correct.  
+☐  
+  
+A5 – Mathematical Calculations  
+Used to suggest appropriate mathematical methods or to check solutions. AI should not
+
+================================================================================
+DOCUMENT: PUSL3123_Assessment_Brief 26-27 (1).pdf
+PAGE: 14
+================================================================================
+is correct.  
+☐  
+  
+A5 – Mathematical Calculations  
+Used to suggest appropriate mathematical methods or to check solutions. AI should not 
+be used to produce the mathematical workings and descriptions that you submit.  
+☐  
+  
+A6 – Solution Architecture and Design  
+Used to help outline the architecture or structure of a technical solution, such as system 
+components, class hierarchies, mathematical models, engineering designs or processes. 
+The final design and structure must be your own.  
+☐  
+  
+A7 – Coding and Computational Assistance  
+Used to generate example code, understand syntax, explore alternative implementation, 
+use computational tools, or learn new coding or computational concepts. Any submitted 
+code must be your own, and you must be able to explain it.  
+☐  
+  
+A8 – Review and Improvement of Technical Work  
+Used to review code, calculations, models, designs, simulations, or other technical work; 
+improve readability, structure or presentation; or help correct errors. AI should be used 
+only to provide suggestions for improvement. You must ensure the output accurately 
+reflects your knowledge.  
+☐  
+  
+A9 – Testing, Verification and Validation Support  
+Used to create test cases, validate outputs or suggest edge cases for software testing, or 
+guide verification and validation. You are responsible for test planning and interpreting 
+results.  
+☐  
+  
+A10 – Data Analysis and Visualisation  
+Used to suggest ways to analyse, present or visualise datasets. The analysis and 
+interpretations that you present must be your own.  
+☐  
+  
+A11 – Other AI roles not listed above  
+Please specify:  
+  
+☐  
+Partnered 
+Work  
+P1 – Generative AI tool use forms an integral part of the assessment and is compliant 
+with the assessment brief.  ☐
+
+================================================================================
+DOCUMENT: PUSL3123_Assessment_Brief 26-27 (1).pdf
+PAGE: 14
+================================================================================
+Please specify:  
+  
+☐  
+Partnered 
+Work  
+P1 – Generative AI tool use forms an integral part of the assessment and is compliant 
+with the assessment brief.  ☐  
+  
+By completing this table, you are making a declaration about how you have used AI to prepare 
+your assessment. Please note that the above uses can and will change as AI tools and technologies 
+change. We reserve the right to update the form at the end of each academic year.
+
+================================================================================
+DOCUMENT: PUSL3123_Assessment_Brief 26-27 (1).pdf
+PAGE: 15
+================================================================================
+12 
+ 
+General Guidance 
+ 
+Extenuating Circumstances 
+ 
+There may be a time during this module where you experience a serious situation 
+which has a significant impact on your ability to complete the assessments.  The 
+definition of these can be found in the University Policy on Extenuating Circumstances 
+here: 
+https://www.plymouth.ac.uk/student-life/your-studies/essential-
+information/exams/exam-rules-and-regulations/extenuating-circumstances 
+ 
+Plagiarism 
+All of your work must be of your own words.  You must use references for your sources, 
+however you acquire them.  Where you wish to use quotations, these must be a very 
+minor part of your overall work. 
+ 
+To copy another person’s work is viewed as plagiarism and is not allowed.  Any issues 
+of plagiarism and any form of academic dishonesty are treated very seriously.  All your 
+work must be your own and other sources must be identified as being theirs, not yours.  
+The copying of another persons’ work could result in a penalty being invoked.  
+ 
+Further information on plagiarism policy can be found here: 
+ 
+Plagiarism: https://www.plymouth.ac.uk/student-life/your-studies/essential-
+information/regulations/plagiarism   
+  
+Examination Offences: https://www.plymouth.ac.uk/student-life/your-
+studies/essential-information/exams/exam-rules-and-regulations/examination-
+offences   
+ 
+Turnitin (http://www.turnitinuk.com/) is an Internet -based 'originality checking tool' 
+which allows documents to be compared with content on the Internet, in journals and 
+in an archive of previously submitted works.  It can help to detect unintentional or 
+deliberate plagiarism.   
+ 
+It is a formative tool that makes it easy for students to review their citations and
+
+================================================================================
+DOCUMENT: PUSL3123_Assessment_Brief 26-27 (1).pdf
+PAGE: 15
+================================================================================
+in an archive of previously submitted works.  It can help to detect unintentional or 
+deliberate plagiarism.   
+ 
+It is a formative tool that makes it easy for students to review their citations and 
+referencing as an aid to learning good academic practice. Turnitin produces an 
+‘originality report’ to help guide you.  To learn more about Turnitin go to: 
+https://help.turnitin.com/new-links.htm?Highlight=guide 
+ 
+The university also had Draft Coach available on the online version of Microsoft Word. 
+Draft Coach is a Turnitin plugin and provides instant feedback on how to address 
+citation issues, grammar mistakes and matches with Turnitin’s database. 
+ 
+Referencing
+
+================================================================================
+DOCUMENT: PUSL3123_Assessment_Brief 26-27 (1).pdf
+PAGE: 16
+================================================================================
+13 
+ 
+The University of Plymouth Library has produced an online 
+support referencing guide which is available 
+here: http://plymouth.libguides.com/referencing.   
+  
+Another recommended referencing resource is Cite Them Right Online; this is an 
+online resource which provides you with specific guidance about how to reference 
+lots of different types of materials.
